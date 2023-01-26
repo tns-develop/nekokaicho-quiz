@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+    volumes:
+      - "../src:/app"
+      - "../resources:/resources"
+    container_name: nekokaicho-quiz-container # コンテナ名
+    tty: true
+    restart: always 
