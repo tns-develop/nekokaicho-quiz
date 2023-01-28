@@ -1,0 +1,41 @@
+{
+  "$schema": "./node_modules/rome/configuration_schema.json",
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "tab",
+    "lineWidth": 120,
+    "ignore": [
+        "node_modules",
+        ".next"
+    ],
+    "formatWithErrors": true
+  },
+  "linter": {
+    "enabled": true,
+    "ignore": [
+      "node_modules",
+      ".next"
+    ],
+    "rules": {
+      "recommended": true,
+      "nursery": {
+        "noVar": "error",
+        "useConst": "warn"
+        // "noBannedTypes": "error",
+        // "noConstructorReturn": "error",
+        // "noDistractingElements": "warn",
+        // "noDuplicateObjectKeys": "error",
+        // "noEmptyInterface": "warn",
+        // "noExtraNonNullAssertion": "warn",
+        // "noNonNullAssertion": "error",
+        // "noRedundantUseStrict": "error",
+        // "noSetterReturn": "error",
+        // "noStringCaseMismatch": "error",
+        // "noVoidTypeReturn": "error",
+        // "useCamelCase": "warn",
+        // "useDefaultSwitchClauseLast": "error",
+        // "useEnumInitializers": "error"
+      }
+    }
+  }
+}
