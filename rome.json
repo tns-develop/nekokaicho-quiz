@@ -20,21 +20,21 @@
       "recommended": true,
       "nursery": {
         "noVar": "error",
-        "useConst": "warn"
-        // "noBannedTypes": "error",
-        // "noConstructorReturn": "error",
-        // "noDistractingElements": "warn",
-        // "noDuplicateObjectKeys": "error",
-        // "noEmptyInterface": "warn",
-        // "noExtraNonNullAssertion": "warn",
-        // "noNonNullAssertion": "error",
-        // "noRedundantUseStrict": "error",
-        // "noSetterReturn": "error",
-        // "noStringCaseMismatch": "error",
-        // "noVoidTypeReturn": "error",
-        // "useCamelCase": "warn",
-        // "useDefaultSwitchClauseLast": "error",
-        // "useEnumInitializers": "error"
+        "useConst": "warn",
+        "noBannedTypes": "error",
+        "noConstructorReturn": "error",
+        "noDistractingElements": "warn",
+        "noDuplicateObjectKeys": "error",
+        "noEmptyInterface": "warn",
+        "noExtraNonNullAssertion": "warn",
+        "noNonNullAssertion": "error",
+        "noRedundantUseStrict": "error",
+        "noSetterReturn": "error",
+        "noStringCaseMismatch": "error",
+        "noVoidTypeReturn": "error",
+        "useCamelCase": "warn",
+        "useDefaultSwitchClauseLast": "error",
+        "useEnumInitializers": "error"
       }
     }
   }
