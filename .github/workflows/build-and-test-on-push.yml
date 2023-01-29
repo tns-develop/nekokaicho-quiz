@@ -37,7 +37,7 @@ jobs:
     - name: build
       run: npm run build
 
-    # 静的なHTMLとしてNext.jsアプリを生成する テスト４
+    # 静的なHTMLとしてNext.jsアプリを生成する
     # プロジェクトルート直下にoutディレクトリができる
     # そのなかに、HTMLファイル群と、それらが読み込むJSファイル群を収めた_nextディレクトリがある
     - name: export
