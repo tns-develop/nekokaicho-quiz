@@ -1,5 +1,3 @@
-var aaa = "aaavc";
-
 export default function Home() {
   return (
     <div>
