@@ -12,6 +12,10 @@
     "export": "next export"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/noto-sans-jp": "^4.5.12",
+    "@mui/material": "^5.11.7",
     "@next/font": "^13.1.2",
     "@types/node": "18.11.18",
     "@types/react": "18.0.26",
