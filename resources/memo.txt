@@ -1,0 +1,2 @@
+ 
+ dig www.nekokaicho-quiz.com +nostats +nocomments +nocmd
