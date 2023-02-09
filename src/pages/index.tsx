@@ -18,7 +18,7 @@ export default function Home() {
         }}
       >
         <Typography variant="h4" component="h1" gutterBottom>
-          MUI v5 + Next.js with TypeScript example
+          MUI v5 + Next.js with TypeScript exampleです
         </Typography>
         <Link href="/linkSample" color="secondary">
           Go to the about page
