@@ -15,7 +15,7 @@ export default function Home() {
 					my: 4,
 					display: "flex",
 					flexDirection: "column",
-					justifyContent: "center",
+					justifyContent: "center",　
 					alignItems: "center",
           height: "100vh",
 				}}
@@ -23,7 +23,9 @@ export default function Home() {
         <Image
           src={titleImage}
           alt="titleImage"
-          style={{ width: '100vw', height: '100vh' }}
+					width={1250}
+					height={500}
+					unoptimized={false}
         />
 				<Typography variant="h4" component="h1" gutterBottom>
 					ねこかいちょークイズ！
