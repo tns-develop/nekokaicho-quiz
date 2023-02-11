@@ -4,7 +4,9 @@ const nextConfig = {
     appDir: false,
   },
   output: 'standalone',
+  images: {
+    unoptimized: true,
+  },
 }
 
-images.unoptimized = true
 module.exports = nextConfig
