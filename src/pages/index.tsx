@@ -1,8 +1,5 @@
 import * as React from "react";
-import Container from "@mui/material/Container";
-import Typography from "@mui/material/Typography";
-import Box from "@mui/material/Box";
-import Link from "@mui/material/Link";
+import { Container, Typography, Box, Link, Button } from "@mui/material";
 import Copyright from "./Copyright";
 import Image from "next/image";
 import titleImage from "../../resources/image/titleImage.png";
@@ -10,28 +7,22 @@ import titleImage from "../../resources/image/titleImage.png";
 export default function Home() {
 	return (
 		<Container maxWidth="lg">
-      <Box
+			<Box
 				sx={{
 					my: 4,
 					display: "flex",
 					flexDirection: "column",
-					justifyContent: "center",　
+					justifyContent: "center",
 					alignItems: "center",
-          height: "100vh",
+					height: "100vh",
 				}}
 			>
-        <Image
-          src={titleImage}
-          alt="titleImage"
-					width={1250}
-					height={500}
-					unoptimized={false}
-        />
-				<Typography variant="h4" component="h1" gutterBottom>
-					ねこかいちょークイズ！
-				</Typography>
-				<Link href="/linkSample" color="secondary">
-					Go to the about page
+				<Image src={titleImage} alt="titleImage" width={1260} height={500} />
+
+				<Link href="/quizStart" color="secondary">
+					<Button color="info" variant="outlined">
+						ねこかいちょークイズ！
+					</Button>
 				</Link>
 				<Copyright />
 			</Box>
