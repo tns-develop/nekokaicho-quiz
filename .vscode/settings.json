@@ -6,5 +6,12 @@
   "editor.defaultFormatter": "rome.rome",
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "files.exclude": {
+    "**/.history": true,
+    "**/.next": true,
+    "**/.swc": true,
+    "**/node_modules": true,
+    "**/out": true
   }
 }

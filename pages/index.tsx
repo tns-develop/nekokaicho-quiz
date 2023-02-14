@@ -1,8 +1,8 @@
 import * as React from "react";
 import { Container, Typography, Box, Link, Button } from "@mui/material";
-import Copyright from "./Copyright";
+import Copyright from "../src/common/Copyright";
 import Image from "next/image";
-import titleImage from "../../resources/image/titleImage.png";
+import titleImage from "../resources/image/titleImage.png";
 
 export default function Home() {
 	return (
