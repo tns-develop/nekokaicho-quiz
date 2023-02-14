@@ -19,7 +19,7 @@ export default function Home() {
 			>
 				<Image src={titleImage} alt="titleImage" width={1260} height={500} />
 
-				<Link href="/quizStart" color="secondary">
+				<Link href="/QuizStart" color="secondary">
 					<Button color="info" variant="outlined">
 						ねこかいちょークイズ！
 					</Button>

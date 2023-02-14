@@ -1,5 +1,6 @@
 import * as React from "react";
 import { Container, Typography, Box, Link, Button } from "@mui/material";
+import getQuizInfo from "../src/components/quizInfo";
 
 // 文字を一文字ずつ表示する関数
 const interval = 100;
@@ -16,9 +17,13 @@ const typeText = (text: string, setText: (text: string) => void) => {
 
 // クイズ開始画面
 const QuizStart = () => {
-  const [text, setText] = React.useState("");
+  const quizInfo = getQuizInfo("history", "1");
+  const index = Math.floor(Math.random() * quizInfo.length);
+  // console.log(`index: ${index} quizInfo.length: ${quizInfo.length}`);
+  // console.log(quizInfo[index]);
+  const [text, setText] = React.useState(quizInfo[index].question);
   React.useEffect(() => {
-    typeText("クイズを開始します", setText);
+    typeText(text, setText);
   }, []);
   return (
 		<Container maxWidth="lg">
