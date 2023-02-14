@@ -3,5 +3,8 @@
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "editor.formatOnSave": true,
   "files.autoSave": "afterDelay",
-  "editor.defaultFormatter": "rome.rome"
+  "editor.defaultFormatter": "rome.rome",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }
