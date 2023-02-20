@@ -2,28 +2,28 @@ import * as React from "react";
 import { Container, Typography, Box, Link, Button } from "@mui/material";
 import getQuizInfo from "../src/components/quizInfo";
 
-// 文字を一文字ずつ表示する関数
+// 文字を一文字ずつ表示する関数をasyncで実装
 const interval = 100;
-const typeText = (text: string, setText: (text: string) => void) => {
+const typeText = async (text: string, setText: (text: string) => void) => {
   let i = 0;
-  const timer = setInterval(() => {
+  while (i < text.length) {
     setText(text.slice(0, i));
     i++;
-    if (i > text.length) {
-      clearInterval(timer);
-    }
-  }, interval);
-}
+    await new Promise((resolve) => setTimeout(resolve, interval));
+  }
+};
 
 // クイズ開始画面
 const QuizStart = () => {
-  const quizInfo = getQuizInfo("history", "1");
-  const index = Math.floor(Math.random() * quizInfo.length);
-  // console.log(`index: ${index} quizInfo.length: ${quizInfo.length}`);
-  // console.log(quizInfo[index]);
-  const [text, setText] = React.useState(quizInfo[index].question);
-  React.useEffect(() => {
-    typeText(text, setText);
+  
+  const [question, setQuestion] = React.useState("");
+  React.useEffect(async () => {
+    const subject = localStorage.getItem("subject");
+    const counter = Number(localStorage.getItem("counter"));
+    const quizInfo = getQuizInfo(subject, counter);
+    const index = 1;
+    
+    await typeText(quizInfo[index].question, setQuestion);
   }, []);
   return (
 		<Container maxWidth="lg">
@@ -38,11 +38,25 @@ const QuizStart = () => {
 				}}
 			>
         <Typography variant="h4" component="h1" gutterBottom>
-          {text}
+          {question}
         </Typography>
 			</Box>
 		</Container>
   );
 };
+
+// getStaticPropsでsubjectとcounterを受け取る
+// export async function getStaticProps() {
+//   localStorage.setItem("subject", "math");
+//   localStorage.setItem("counter", "1");
+//   const subject = localStorage.getItem("subject");
+//   const counter = localStorage.getItem("counter");
+//   return {
+//     props: {
+//       subject,
+//       counter,
+//     },
+//   };
+// }
 
 export default QuizStart;
