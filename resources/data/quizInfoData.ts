@@ -17884,7 +17884,7 @@ export const quisInfoList:QuizInfoType[] = [
   {
     subject: "advise",
     title: "次のうちで「助言」に当たる英単語は何か？",
-    counter: "advice",
+    counter: 11,
     question: "say",
     length: 3,
     anser1: "talk",
