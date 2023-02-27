@@ -11,7 +11,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "前方後円墳",
     anser3: "ファラオ",
     anser4: "ピラミッド",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -23,7 +23,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "象形文字",
     anser3: "くさび形文字",
     anser4: "甲骨文字",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -35,7 +35,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "太陰暦",
     anser3: "ユリウス暦",
     anser4: "太陽暦",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -47,7 +47,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "やすり形文字",
     anser3: "象形文字",
     anser4: "くさび形文字",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -59,7 +59,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ユフテス法",
     anser3: "ハンムラビ法典",
     anser4: "ムスリム法",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -71,7 +71,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インダス川",
     anser3: "チグリス川",
     anser4: "ナイル川",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -83,7 +83,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "孔子",
     anser3: "ダルマ",
     anser4: "最澄",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -95,7 +95,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "象形文字",
     anser3: "くさび形文字",
     anser4: "甲骨文字",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -107,7 +107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "孔子",
     anser3: "孟子",
     anser4: "荘子",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -119,7 +119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "サテンロード",
     anser3: "コットンルート",
     anser4: "シルクロード",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -131,7 +131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "土偶",
     anser3: "金印",
     anser4: "勾玉",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -143,7 +143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "銅鏡",
     anser3: "銅盾",
     anser4: "銅鐸",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -155,7 +155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "弥生土器",
     anser3: "縄文土器",
     anser4: "縄状土器",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -167,7 +167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "縄文土器",
     anser3: "磨製土器",
     anser4: "弥生土器",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -179,7 +179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "登呂遺跡",
     anser3: "加茂遺跡",
     anser4: "長岡遺跡",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -191,7 +191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "校倉倉庫",
     anser3: "正倉院",
     anser4: "穀倉庫",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -203,7 +203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "丹羽朝廷",
     anser3: "漢王朝",
     anser4: "大和政権",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -215,7 +215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "角墳",
     anser3: "前方後円墳",
     anser4: "方墳",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -227,7 +227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "元来人",
     anser3: "帰化人",
     anser4: "渡来人",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -239,7 +239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "仏教",
     anser3: "朱子学",
     anser4: "キリスト教",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -251,7 +251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中国通信使",
     anser3: "遣隋使",
     anser4: "唐特使",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -263,7 +263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "足利義満・義政",
     anser3: "蘇我蝦夷・入鹿",
     anser4: "小野妹子・馬子",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -275,7 +275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "採試",
     anser3: "試挙",
     anser4: "国試験",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -287,7 +287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "清",
     anser3: "宋",
     anser4: "唐",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -299,7 +299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "冠位十二階",
     anser3: "官吏試験",
     anser4: "科挙",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -311,7 +311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "聖武天皇",
     anser3: "推古天皇",
     anser4: "桓武天皇",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -323,7 +323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "憲法十七条",
     anser3: "武家所法度",
     anser4: "公事方御定書",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -335,7 +335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平等院鳳凰堂",
     anser3: "東大寺南大門",
     anser4: "法隆寺",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -347,7 +347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中臣鎌足",
     anser3: "蘇我蝦夷",
     anser4: "中大江皇子",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -359,7 +359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "白村江の戦い",
     anser3: "釜山鎮の戦い",
     anser4: "江原道の戦い",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -371,7 +371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "承久の乱",
     anser3: "保元の乱",
     anser4: "壬申の乱",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -383,7 +383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "上海",
     anser3: "長安",
     anser4: "洛陽",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -395,7 +395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大宝律令",
     anser3: "開皇律令",
     anser4: "泰始律令",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -407,7 +407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "租",
     anser3: "垂",
     anser4: "調",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -419,7 +419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "屯田兵",
     anser3: "御家人",
     anser4: "渡来人",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -431,7 +431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "飛鳥文化",
     anser3: "天平文化",
     anser4: "北山文化",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -443,7 +443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "唐招提寺",
     anser3: "法隆寺",
     anser4: "円覚寺",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -455,7 +455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "古事記",
     anser3: "万葉集",
     anser4: "風雲記",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -467,7 +467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "高床倉庫",
     anser3: "校倉造",
     anser4: "正倉院",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -479,7 +479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日本書紀",
     anser3: "万葉集",
     anser4: "風土記",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -491,7 +491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "藤原京",
     anser3: "平安京",
     anser4: "長岡京",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -503,7 +503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "真言宗",
     anser3: "時宗",
     anser4: "天台宗",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -515,7 +515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "菅原氏",
     anser3: "北条氏",
     anser4: "蘇我氏",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -527,7 +527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "道元",
     anser3: "空海",
     anser4: "法然",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -539,7 +539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平将門",
     anser3: "藤原清盛",
     anser4: "源義家",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -551,7 +551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国風文化",
     anser3: "東山文化",
     anser4: "元禄文化",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -563,7 +563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "新古今和歌集",
     anser3: "万葉集",
     anser4: "古今和歌集",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -575,7 +575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鴨長明",
     anser3: "清少納言",
     anser4: "吉田兼好",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -587,7 +587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "源氏物語",
     anser3: "伊勢物語",
     anser4: "草枕",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -599,7 +599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中尊寺金色堂",
     anser3: "円覚寺舎利殿",
     anser4: "高台寺",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -611,7 +611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "荘園",
     anser3: "地頭地",
     anser4: "封地",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -623,7 +623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "朝廷政",
     anser3: "院政",
     anser4: "譲位政",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -635,7 +635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "僧士",
     anser3: "武装僧",
     anser4: "虚無僧",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -647,7 +647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "保元の乱",
     anser3: "応仁の乱",
     anser4: "平治の乱",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -659,7 +659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "永享の乱",
     anser3: "応仁の乱",
     anser4: "嘉吉の乱",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -671,7 +671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "源義朝",
     anser3: "平清盛",
     anser4: "平将門",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -683,7 +683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "秦",
     anser3: "清",
     anser4: "宋",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -695,7 +695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "愛宕神社",
     anser3: "出雲大社",
     anser4: "伊勢神宮",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -707,7 +707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "壇ノ浦の戦い",
     anser3: "富士川の戦い",
     anser4: "一ノ谷の戦い",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -719,7 +719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "伊勢物語",
     anser3: "古今物語",
     anser4: "平家物語",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -731,7 +731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "源義経",
     anser3: "源義朝",
     anser4: "源頼朝",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -743,7 +743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地頭",
     anser3: "防人",
     anser4: "守護",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -755,7 +755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地頭",
     anser3: "座",
     anser4: "防人",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -767,7 +767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "老中",
     anser3: "執権",
     anser4: "管領",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -779,7 +779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "壬申の乱",
     anser3: "承久の乱",
     anser4: "白村江の戦い",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -791,7 +791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "御成敗式目",
     anser3: "五箇条のご誓文",
     anser4: "慶安の御触書",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -803,7 +803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日蓮",
     anser3: "道元",
     anser4: "空海",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -815,7 +815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "曹洞宗",
     anser3: "浄土真宗",
     anser4: "浄土宗",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -827,7 +827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平家物語",
     anser3: "竹取物語",
     anser4: "琵琶物語",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -839,7 +839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "薬上菩薩像",
     anser3: "羂索観音像",
     anser4: "阿修羅観音像",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -851,7 +851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "劉邦",
     anser3: "フビライ・ハン",
     anser4: "アイシンギョロ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -863,7 +863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "北条時宗",
     anser3: "北条高時",
     anser4: "北条政子",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -875,7 +875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "石壁",
     anser3: "石塁",
     anser4: "土石防",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -887,7 +887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "桓武天皇",
     anser3: "天智天皇",
     anser4: "天武天皇",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -899,7 +899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "足利尊氏",
     anser3: "楠木正成",
     anser4: "長崎円喜",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -911,7 +911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "２３年",
     anser3: "１０年",
     anser4: "３年",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -923,7 +923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "足利義政",
     anser3: "足利尊氏",
     anser4: "足利義昭",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -935,7 +935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "吉野",
     anser3: "鎌倉",
     anser4: "京都",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -947,7 +947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "侍所",
     anser3: "守護大名",
     anser4: "戦国大名",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -959,7 +959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "足利尊氏",
     anser3: "足利直義",
     anser4: "足利義満",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -971,7 +971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "足利義経",
     anser3: "足利尊氏",
     anser4: "足利義政",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -983,7 +983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "竜安寺",
     anser3: "銀閣寺",
     anser4: "清水寺",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -995,7 +995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "禅宗模様",
     anser3: "公団造",
     anser4: "土石流",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1007,7 +1007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "北山文化",
     anser3: "東山文化",
     anser4: "西山文化",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1019,7 +1019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "遠景庭",
     anser3: "水庭",
     anser4: "石庭",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1031,7 +1031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "濃淡画",
     anser3: "白黒画",
     anser4: "日本画",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1043,7 +1043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "応仁の乱",
     anser3: "天草の乱",
     anser4: "承久の乱",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1055,7 +1055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "座",
     anser3: "惣村",
     anser4: "門前町",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1067,7 +1067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "北山文化",
     anser3: "東山文化",
     anser4: "西山文化",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1079,7 +1079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "歌舞伎",
     anser3: "茶の湯",
     anser4: "狂言",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1091,7 +1091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "下克上",
     anser3: "上克下",
     anser4: "天誅",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1103,7 +1103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "函館",
     anser3: "江戸",
     anser4: "種子島",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1115,7 +1115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "徳川家康",
     anser3: "武田信玄",
     anser4: "豊臣秀吉",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1127,7 +1127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "長篠の戦い",
     anser3: "関ヶ原の戦い",
     anser4: "川中島の戦い",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1139,7 +1139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "関ヶ原の戦い",
     anser3: "鳥羽伏見の戦い",
     anser4: "山崎の戦い",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1151,7 +1151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "晋",
     anser3: "宋",
     anser4: "清",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1163,7 +1163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "刀狩",
     anser3: "銃狩",
     anser4: "刀令",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1175,7 +1175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "欧米貿易",
     anser3: "南蛮貿易",
     anser4: "朱印船貿易",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1187,7 +1187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "千利休",
     anser3: "世阿弥",
     anser4: "狩野永徳",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1199,7 +1199,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "安土城",
     anser3: "大阪城",
     anser4: "江戸城",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1211,7 +1211,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "コーラン",
     anser3: "聖書",
     anser4: "アラー",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1223,7 +1223,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ユダヤ教",
     anser3: "キリスト教",
     anser4: "仏教",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1235,7 +1235,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ラテン民族",
     anser3: "モンゴル民族",
     anser4: "ユダヤ民族",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1247,7 +1247,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "コロンブス",
     anser3: "コペルニクス",
     anser4: "デカルト",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1259,7 +1259,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ガリレオ",
     anser3: "マゼラン",
     anser4: "コロンブス",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1271,7 +1271,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オーストリア",
     anser3: "ドイツ",
     anser4: "イタリア",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1283,7 +1283,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "キリスト",
     anser3: "マリア",
     anser4: "自然",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1295,7 +1295,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ピカソ",
     anser3: "ダ・ヴィンチ",
     anser4: "ラファエロ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1307,7 +1307,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "奪還軍",
     anser3: "逆卍軍",
     anser4: "十字軍",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1319,7 +1319,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ダンテ",
     anser3: "ルター",
     anser4: "ゲーテ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1331,7 +1331,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "徳川家康",
     anser3: "徳川吉宗",
     anser4: "徳川慶喜",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1343,7 +1343,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "川中島の戦い",
     anser3: "山崎の戦い",
     anser4: "関ヶ原の戦い",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1355,7 +1355,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鳥羽伏見の戦い",
     anser3: "大阪の陣",
     anser4: "姉川の戦い",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1367,7 +1367,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "踏絵",
     anser3: "宗教裁判",
     anser4: "像踏",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1379,7 +1379,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "慶安の御触書",
     anser3: "天明法度",
     anser4: "慶長の触書",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1391,7 +1391,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "交代領地",
     anser3: "大名行列",
     anser4: "御成敗式目",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1403,7 +1403,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "村共同体",
     anser3: "５人組",
     anser4: "惣責任",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1415,7 +1415,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "勘定貿易",
     anser3: "日宋貿易",
     anser4: "朱印船貿易",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1427,7 +1427,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "親代",
     anser3: "外様",
     anser4: "親藩",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1439,7 +1439,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "スペイン",
     anser3: "ポルトガル",
     anser4: "イギリス",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1451,7 +1451,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "犬保護令",
     anser3: "生類憐みの令",
     anser4: "生類憐の御触書",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1463,7 +1463,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "享保の改革",
     anser3: "天保の改革",
     anser4: "天明の改革",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1475,7 +1475,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "新井白石",
     anser3: "水戸慶喜",
     anser4: "田沼意次",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1487,7 +1487,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "徳川家斉",
     anser3: "水野忠邦",
     anser4: "新井白石",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1499,7 +1499,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "十返舎一九",
     anser3: "近松門左衛門",
     anser4: "市川団十郎",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1511,7 +1511,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "浮世絵",
     anser3: "錦絵",
     anser4: "大和絵",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1523,7 +1523,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小林一茶",
     anser3: "高浜虚子",
     anser4: "松尾芭蕉",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1535,7 +1535,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "庶民塾",
     anser3: "寺子屋",
     anser4: "藩校",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1547,7 +1547,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "西洋医学新書",
     anser3: "蘭医入門書",
     anser4: "医蘭新書",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1559,7 +1559,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "葛飾北斎",
     anser3: "東洲斎写楽",
     anser4: "菱川師宣",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1571,7 +1571,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロック",
     anser3: "モンテスキュー",
     anser4: "デューイ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1583,7 +1583,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "人権宣言",
     anser3: "権利章典",
     anser4: "博愛宣言",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1595,7 +1595,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "南北戦争",
     anser3: "人権戦争",
     anser4: "独立戦争",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1607,7 +1607,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "工場革命",
     anser3: "啓蒙革命",
     anser4: "蒸気革命",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1619,7 +1619,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "マルクス",
     anser3: "エンゲルス",
     anser4: "ニーチェ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1631,7 +1631,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "太平天国の乱",
     anser3: "インド大反乱",
     anser4: "太平洋戦争",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1643,7 +1643,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フランス",
     anser3: "イギリス",
     anser4: "アメリカ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1655,7 +1655,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "清",
     anser3: "明",
     anser4: "漢",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1667,7 +1667,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アロー戦争",
     anser3: "日中戦争",
     anser4: "モルヒネ戦争",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1679,7 +1679,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "黄巾の乱",
     anser3: "辛亥革命",
     anser4: "太平天国の乱",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1691,7 +1691,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "天草四郎",
     anser3: "上杉鷹山",
     anser4: "大塩平八郎",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1703,7 +1703,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "天保の改革",
     anser3: "享保の改革",
     anser4: "江戸の改革",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1715,7 +1715,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公武合体",
     anser3: "外国船打ち払い令",
     anser4: "切捨御免",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1727,7 +1727,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "西郷隆盛",
     anser3: "小松帯刀",
     anser4: "木戸孝允",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1739,7 +1739,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日米通商条約",
     anser3: "日米同盟",
     anser4: "日米和親条約",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1751,7 +1751,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "坂本龍馬",
     anser3: "久坂玄瑞",
     anser4: "高杉晋作",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1763,7 +1763,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "井伊の乱",
     anser3: "天保の大獄",
     anser4: "蛮社の獄",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1775,7 +1775,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "禁門の変",
     anser3: "桜田門外の変",
     anser4: "生麦事件",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1787,7 +1787,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "貨幣の交換比率",
     anser3: "日本に領事裁判権",
     anser4: "渡航禁止",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1799,7 +1799,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "一揆",
     anser3: "ええじゃないか",
     anser4: "踊念仏",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1811,7 +1811,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "朝廷奉還",
     anser3: "政体書",
     anser4: "版籍奉還",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1823,7 +1823,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "藩置府県",
     anser3: "首都整備改革",
     anser4: "知事派遣令",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1835,7 +1835,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地租改正",
     anser3: "検地",
     anser4: "地税改革",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1847,7 +1847,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "徴兵整法",
     anser3: "刑法",
     anser4: "徴兵令",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1859,7 +1859,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "坂本竜馬",
     anser3: "木戸孝允",
     anser4: "西郷隆盛",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1871,7 +1871,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "入植兵",
     anser3: "道拓兵",
     anser4: "屯田兵",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1883,7 +1883,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "広島紡績所",
     anser3: "富岡製糸場",
     anser4: "千住製絨所",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1895,7 +1895,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "留魂録",
     anser3: "学問のすゝめ",
     anser4: "自警録",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1907,7 +1907,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "陸奥宗光",
     anser3: "小村寿太郎",
     anser4: "井上馨",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1919,7 +1919,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "征韓論",
     anser3: "懲朝論",
     anser4: "対韓論",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -1931,7 +1931,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大久保利通",
     anser3: "井上馨",
     anser4: "板垣退助",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1943,7 +1943,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "薩摩戦争",
     anser3: "神風連の乱",
     anser4: "佐賀の乱",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1955,7 +1955,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "官僚政治",
     anser3: "立国政治",
     anser4: "薩長政治",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -1967,7 +1967,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国会設立要求書",
     anser3: "民撰議院設立建白書",
     anser4: "市民議会設立要望書",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -1979,7 +1979,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国会開設発布令",
     anser3: "民撰議会開設の勅諭",
     anser4: "国会開設の勅諭",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -1991,7 +1991,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フランス",
     anser3: "ドイツ",
     anser4: "アメリカ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2003,7 +2003,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "板垣退助",
     anser3: "大久保利通",
     anser4: "大隈重信",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2015,7 +2015,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大日本帝国憲法",
     anser3: "大東亜帝国憲法",
     anser4: "日本国憲法",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2027,7 +2027,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "参議院",
     anser3: "貴族院",
     anser4: "民議院",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2039,7 +2039,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "天皇",
     anser3: "国会",
     anser4: "国民",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2051,7 +2051,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "下関条約",
     anser3: "ポーツマス条約",
     anser4: "ワシントン条約",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2063,7 +2063,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "露独仏干渉",
     anser3: "欧米要求",
     anser4: "遼東要求・三国干渉",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2075,7 +2075,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "八幡製鉄所",
     anser3: "富岡製鉄所",
     anser4: "神戸製鉄所",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2087,7 +2087,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小村寿太郎",
     anser3: "井上馨",
     anser4: "陸奥宗光",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2099,7 +2099,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日英条約",
     anser3: "日英軍事協商",
     anser4: "日英貿易商定",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2111,7 +2111,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日露戦争",
     anser3: "日伊戦争",
     anser4: "日亜戦争",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2123,7 +2123,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "井上馨",
     anser3: "寺島宗則",
     anser4: "青木周蔵",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2135,7 +2135,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "辛亥革命",
     anser3: "文化大革命",
     anser4: "中国国民革命",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2147,7 +2147,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平塚らいてう",
     anser3: "尾崎翠",
     anser4: "与謝野晶子",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2159,7 +2159,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "愛国勅語",
     anser3: "教育勅語",
     anser4: "忠君勅語",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2171,7 +2171,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "サラエボ事件",
     anser3: "２月革命",
     anser4: "満州事変",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2183,7 +2183,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ノルマンディー",
     anser3: "クリム半島",
     anser4: "バルカン半島",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2195,7 +2195,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大東亜要求",
     anser3: "独立要求",
     anser4: "併合要求",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2207,7 +2207,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ドイツ",
     anser3: "フランス",
     anser4: "ロシア",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2219,7 +2219,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロシア革命",
     anser3: "名誉革命",
     anser4: "７月革命",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2231,7 +2231,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "キューバ",
     anser3: "中華民国",
     anser4: "ソビエト連邦",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2243,7 +2243,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ヤルタ条約",
     anser3: "ベルサイユ条約",
     anser4: "カイロ条約",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2255,7 +2255,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国際連盟",
     anser3: "ＯＰＥＣ",
     anser4: "国際連合",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2267,7 +2267,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "毛沢東",
     anser3: "鄧小平",
     anser4: "蒋介石",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2279,7 +2279,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ガンジー",
     anser3: "ヘレン・ケラー",
     anser4: "ゴータマ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2291,7 +2291,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ええじゃないか",
     anser3: "安保闘争",
     anser4: "富山独立運動",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2303,7 +2303,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "25歳以上の男子",
     anser3: "20歳以上の男女",
     anser4: "25歳以上の男女",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2315,7 +2315,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "原敬",
     anser3: "濱口雄幸",
     anser4: "犬養毅",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2327,7 +2327,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "個人情報保護法",
     anser3: "独占禁止法",
     anser4: "治安維持法",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2339,7 +2339,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "東京大停電",
     anser3: "関東大洪水",
     anser4: "東京湾大津波",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2351,7 +2351,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "美濃部達吉",
     anser3: "吉野作造",
     anser4: "正岡子規",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2363,7 +2363,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "湯川秀樹",
     anser3: "野口英世",
     anser4: "江崎玲於奈",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2375,7 +2375,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "芥川龍之介",
     anser3: "西田幾多郎",
     anser4: "坪内逍遥",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2387,7 +2387,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "白樺",
     anser3: "文春",
     anser4: "文学界",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2399,7 +2399,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "森鴎外",
     anser3: "樋口一葉",
     anser4: "芥川龍之介",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2411,7 +2411,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "共産政策",
     anser3: "ニューディール政策",
     anser4: "インフレ政策",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2423,7 +2423,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アメリカ",
     anser3: "イギリス",
     anser4: "ドイツ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2435,7 +2435,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＦＴＡ経済",
     anser3: "バブル経済",
     anser4: "ブロック経済",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2447,7 +2447,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ネオナチ党",
     anser3: "ファシスト党",
     anser4: "共産党",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2459,7 +2459,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フランス",
     anser3: "イタリア",
     anser4: "スペイン",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2471,7 +2471,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "濱口雄幸",
     anser3: "原敬",
     anser4: "東条英機",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2483,7 +2483,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "清",
     anser3: "中国東北国",
     anser4: "満州国",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2495,7 +2495,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "満州事変",
     anser3: "義和団事件",
     anser4: "支那事変",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2507,7 +2507,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "美濃部達吉",
     anser3: "斎藤隆夫",
     anser4: "近衛文麿",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2519,7 +2519,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "五・四事件",
     anser3: "二・二六事件",
     anser4: "三・一事変",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2531,7 +2531,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イギリス",
     anser3: "日本",
     anser4: "イタリア",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2543,7 +2543,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1933年",
     anser3: "1939年",
     anser4: "1941年",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2555,7 +2555,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大東亜共栄圏",
     anser3: "大日亜連合",
     anser4: "ＡＳＥＡＮ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2567,7 +2567,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "連立大日本組織",
     anser3: "大東亜連合体",
     anser4: "大政翼賛会",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2579,7 +2579,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日独伊三国同盟",
     anser3: "日英仏三国連合",
     anser4: "日中印三国協商",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2591,7 +2591,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "集団避難",
     anser3: "田舎大移動",
     anser4: "集団疎避",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2603,7 +2603,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "サイパン沖海戦",
     anser3: "硫黄島の戦い",
     anser4: "ミッドウェー海戦",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2615,7 +2615,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ソ連",
     anser3: "ドイツ",
     anser4: "アメリカ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2627,7 +2627,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ダカール宣言",
     anser3: "ポツダム宣言",
     anser4: "ヤルタ宣言",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2639,7 +2639,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "広島",
     anser3: "長崎",
     anser4: "京都",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2651,7 +2651,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＩＬＯ",
     anser3: "ＰＫＯ",
     anser4: "ＧＨＱ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2663,7 +2663,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "マッカーサー",
     anser3: "ハリス",
     anser4: "ペリー",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2675,7 +2675,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "自由管理法",
     anser3: "公正取引法",
     anser4: "刑法",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2687,7 +2687,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "20歳以上の男女",
     anser3: "18歳以上の男子",
     anser4: "20歳以上の男子",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2699,7 +2699,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小作改革",
     anser3: "農業改革",
     anser4: "農家革命",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2711,7 +2711,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "教育学校法",
     anser3: "教育策定法",
     anser4: "教育基本法",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2723,7 +2723,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1946年11月3日",
     anser3: "1947年5月3日",
     anser4: "1947年11月3日",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2735,7 +2735,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1948年",
     anser3: "1951年",
     anser4: "1960年",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2747,7 +2747,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日米貿易協定条約",
     anser3: "日米和親条約",
     anser4: "日米修好通商条約",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2759,7 +2759,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "東西戦争",
     anser3: "冷戦",
     anser4: "非武力戦争",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2771,7 +2771,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "高度経済成長",
     anser3: "バブル経済",
     anser4: "安定成長経済",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2783,7 +2783,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "警察予備隊",
     anser3: "自衛軍",
     anser4: "自主防衛軍",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2795,7 +2795,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "朝鮮需要",
     anser3: "戦需の活動者",
     anser4: "特需",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2807,7 +2807,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日ソ共同声明",
     anser3: "日ソ宣言",
     anser4: "日ソ平和条約権",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "history",
@@ -2819,7 +2819,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中東危機",
     anser3: "インフレ危機",
     anser4: "石油危機",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "history",
@@ -2831,7 +2831,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＡＵ",
     anser3: "ＡＰＥＣ",
     anser4: "ＯＰＥＣ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2843,7 +2843,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "湾岸戦争",
     anser3: "ベトナム戦争",
     anser4: "インドシナ戦争",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2855,7 +2855,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "尖閣諸島",
     anser3: "北方領土",
     anser4: "千島列島",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "history",
@@ -2867,7 +2867,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "湾岸戦争",
     anser3: "コソボ紛争",
     anser4: "ソマリア戦争",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "history",
@@ -2879,7 +2879,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ボスニア内戦",
     anser3: "パレスチナ紛争",
     anser4: "コソボ紛争",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -2891,7 +2891,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オイルショック",
     anser3: "サブプライムショック",
     anser4: "ブラックマンデー",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -2903,7 +2903,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "過疎化社会",
     anser3: "多子高齢化社会",
     anser4: "少子高齢化社会",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -2915,7 +2915,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＷＨＯ",
     anser3: "ＧＨＱ",
     anser4: "ＣＤＳ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -2927,7 +2927,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "情報化社会",
     anser3: "少子高齢化社会",
     anser4: "国際化社会",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -2939,7 +2939,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "バブル経済",
     anser3: "デフレ経済",
     anser4: "実物経済",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -2951,7 +2951,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "加工貿易",
     anser3: "輸入貿易",
     anser4: "先端貿易",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -2963,7 +2963,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "安定成長",
     anser3: "急激成長",
     anser4: "バブル成長",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -2975,7 +2975,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＡＳＥＡＮ",
     anser3: "ＮＡＴＯ",
     anser4: "サミット",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -2987,7 +2987,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "サブプライムローン",
     anser3: "プライムローン",
     anser4: "カードローン",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -2999,7 +2999,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "洗濯機",
     anser3: "炊飯器",
     anser4: "冷蔵庫",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3011,7 +3011,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "姻族",
     anser3: "血族",
     anser4: "家族",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3023,7 +3023,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "家族証明書",
     anser3: "身分証明書",
     anser4: "戸籍",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3035,7 +3035,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハニー",
     anser3: "大黒柱",
     anser4: "配偶者",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3047,7 +3047,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "２親等",
     anser3: "３親等",
     anser4: "４親等",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3059,7 +3059,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "18歳",
     anser3: "20歳",
     anser4: "25歳",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3071,7 +3071,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "核家族",
     anser3: "大家族",
     anser4: "小家族",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3083,7 +3083,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "２親等",
     anser3: "３親等",
     anser4: "４親等",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3095,7 +3095,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "保護者権",
     anser3: "監督権",
     anser4: "親権",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3107,7 +3107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "出生届",
     anser3: "婚姻届",
     anser4: "離婚届",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3119,7 +3119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "兄弟",
     anser3: "こども",
     anser4: "いとこ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3131,7 +3131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロック",
     anser3: "ルソー",
     anser4: "モンテスキュー",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3143,7 +3143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロック",
     anser3: "ルソー",
     anser4: "モンテスキュー",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3155,7 +3155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国富論",
     anser3: "純粋理性批判",
     anser4: "法の精神",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3167,7 +3167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "四権分割",
     anser3: "権力分割",
     anser4: "三権分立",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3179,7 +3179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "啓蒙思想",
     anser3: "浄土思想",
     anser4: "選民思想",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3191,7 +3191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "市民革命",
     anser3: "産業革命",
     anser4: "名誉革命",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3203,7 +3203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大英帝国憲法",
     anser3: "イギリス憲法",
     anser4: "マグナ・カルタ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3215,7 +3215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フランス革命",
     anser3: "清教徒革命",
     anser4: "名誉革命",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3227,7 +3227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平等権",
     anser3: "参政権",
     anser4: "自由権",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3239,7 +3239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "独立宣言",
     anser3: "平和宣言",
     anser4: "アメリカ宣言",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3251,7 +3251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会運動",
     anser3: "自由民権運動",
     anser4: "国会開設運動",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3263,7 +3263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ドイツ",
     anser3: "イギリス",
     anser4: "フランス",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3275,7 +3275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日米修好通商条約",
     anser3: "日米平和条約",
     anser4: "日米安全保障条約",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3287,7 +3287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "第9条",
     anser3: "第25条",
     anser4: "第92条",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3299,7 +3299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "撃たない",
     anser3: "作らない",
     anser4: "持たない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3311,7 +3311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平和統率",
     anser3: "軍人統制",
     anser4: "文民統制",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3323,7 +3323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "直接民主制",
     anser3: "間接民主制",
     anser4: "代表民主制",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3335,7 +3335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "象徴",
     anser3: "現世神",
     anser4: "代表",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3347,7 +3347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1946年11月3日",
     anser3: "1947年5月3日",
     anser4: "1948年1月1日",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3359,7 +3359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "基本的人権の尊重",
     anser3: "国民主権",
     anser4: "象徴天皇",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3371,7 +3371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "最高の権利",
     anser3: "永久の権利",
     anser4: "未達の権利",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3383,7 +3383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "第９条",
     anser3: "第25条",
     anser4: "第22条",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3395,7 +3395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "内閣の実践者",
     anser3: "国民の活動者",
     anser4: "全体の奉仕者",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3407,7 +3407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "団結権",
     anser3: "労働権",
     anser4: "団体交渉権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3419,7 +3419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "労働基本権",
     anser3: "請求権",
     anser4: "請願権",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3431,7 +3431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "不断の努力",
     anser3: "自由の抑制",
     anser4: "全体の幸福",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3443,7 +3443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "自由権",
     anser3: "社会権",
     anser4: "労働三権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3455,7 +3455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会権",
     anser3: "市民権",
     anser4: "平等権",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3467,7 +3467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平等権",
     anser3: "自由権",
     anser4: "市民権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3479,7 +3479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "自由権",
     anser3: "社会権",
     anser4: "参政権",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3491,7 +3491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "基本的人権",
     anser3: "請求権",
     anser4: "司法権",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3503,7 +3503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "恐怖権力",
     anser3: "抑止力",
     anser4: "統帥権",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3515,7 +3515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "リンカーン",
     anser3: "ワシントン",
     anser4: "ルーズベルト",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3527,7 +3527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "権力分立",
     anser3: "三権分立",
     anser4: "均衡分立",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3539,7 +3539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "義務",
     anser3: "意思",
     anser4: "判断",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3551,7 +3551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会主義国",
     anser3: "民主国家",
     anser4: "法治国家",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3563,7 +3563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロック",
     anser3: "ベンサム",
     anser4: "モンテスキュー",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3575,7 +3575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "抑止権",
     anser3: "行政権",
     anser4: "立法権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3587,7 +3587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "最大多数の幸福",
     anser3: "公共の福祉",
     anser4: "平和と安心",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3599,7 +3599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "抑止権",
     anser3: "行政権",
     anser4: "立法権",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3611,7 +3611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "野党",
     anser3: "与党",
     anser4: "政党",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3623,7 +3623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "20歳以上の男女",
     anser3: "25歳以上の男子",
     anser4: "25歳以上の女子",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3635,7 +3635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公職選挙法",
     anser3: "男女参画社会基本法",
     anser4: "刑法",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3647,7 +3647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小選挙区制",
     anser3: "大選挙区制",
     anser4: "比例代表制",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3659,7 +3659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平等選挙",
     anser3: "秘密投票",
     anser4: "不在者投票",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3671,7 +3671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "満20歳",
     anser3: "満25歳",
     anser4: "満30歳",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3683,7 +3683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "満20歳",
     anser3: "満25歳",
     anser4: "満30歳",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3695,7 +3695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平等選挙",
     anser3: "秘密投票",
     anser4: "不在者投票",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3707,7 +3707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公約",
     anser3: "約束",
     anser4: "所信表明",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3719,7 +3719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "支持率",
     anser3: "野論",
     anser4: "世論",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3731,7 +3731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "首相",
     anser3: "出納長",
     anser4: "知事",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3743,7 +3743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "20歳以上",
     anser3: "25歳以上",
     anser4: "30歳以上",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3755,7 +3755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "条例",
     anser3: "地方令",
     anser4: "条約",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3767,7 +3767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "教育委員会",
     anser3: "公正取引委員会",
     anser4: "選挙管理委員会",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3779,7 +3779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1月20日",
     anser3: "1月3日",
     anser4: "1月2日",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3791,7 +3791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "６年",
     anser3: "３年",
     anser4: "４年",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3803,7 +3803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地方債還付金",
     anser3: "地方交付税交付金",
     anser4: "地方税",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3815,7 +3815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国会議員の指名",
     anser3: "議会の解散",
     anser4: "専決事項",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3827,7 +3827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "20歳以上",
     anser3: "25歳以上",
     anser4: "30歳以上",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3839,7 +3839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "警察",
     anser3: "教育",
     anser4: "保健衛生",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3851,7 +3851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "320人",
     anser3: "480人",
     anser4: "525人",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3863,7 +3863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公聴会",
     anser3: "両院協議会",
     anser4: "本会議",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3875,7 +3875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1月2日",
     anser3: "過半数",
     anser4: "2月3日",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3887,7 +3887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "特別国会",
     anser3: "臨時国会",
     anser4: "緊急集会",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3899,7 +3899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "200人",
     anser3: "242人",
     anser4: "360人",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -3911,7 +3911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "３年",
     anser3: "６年",
     anser4: "５年",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3923,7 +3923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "90日",
     anser3: "100日",
     anser4: "150日",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3935,7 +3935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "決算の承認",
     anser3: "総理大臣の指名",
     anser4: "条約の承認",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3947,7 +3947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "20歳以上",
     anser3: "25歳以上",
     anser4: "30歳以上",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -3959,7 +3959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "４月",
     anser3: "９月",
     anser4: "12月",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3971,7 +3971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "行政",
     anser3: "軍事",
     anser4: "司法",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -3983,7 +3983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "内閣信任制",
     anser3: "大統領制",
     anser4: "内閣国会制",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -3995,7 +3995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国民",
     anser3: "衆議院議長",
     anser4: "内閣総理大臣",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4007,7 +4007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国務大臣経験が必要",
     anser3: "衆議院議員である",
     anser4: "参議院議員である",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4019,7 +4019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "特別国会",
     anser3: "内閣諮問会議",
     anser4: "閣議",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4031,7 +4031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "助言と承認",
     anser3: "隷属",
     anser4: "協賛",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4043,7 +4043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国務大臣",
     anser3: "官房長官",
     anser4: "衆議院議長",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4055,7 +4055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "会計検査院",
     anser3: "財務省",
     anser4: "防衛省",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4067,7 +4067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "行政",
     anser3: "国民全体",
     anser4: "国会",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4079,7 +4079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "予算を国会に提出する",
     anser3: "衆議院の解散",
     anser4: "国務大臣の任命",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4091,7 +4091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "行政違法権",
     anser3: "立法違憲権",
     anser4: "合憲立法審査権",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4103,7 +4103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "複数審査",
     anser3: "裁判員制度",
     anser4: "三審制",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4115,7 +4115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地方裁判所",
     anser3: "最高裁判所",
     anser4: "家庭裁判所",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4127,7 +4127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "権利",
     anser3: "良心",
     anser4: "善意",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4139,7 +4139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国民検査",
     anser3: "裁判員制度",
     anser4: "弾劾裁判",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4151,7 +4151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "上告",
     anser3: "告訴",
     anser4: "判決",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4163,7 +4163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "民事裁判",
     anser3: "行政裁判",
     anser4: "弾劾裁判",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4175,7 +4175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "家庭裁判所",
     anser3: "地方裁判所",
     anser4: "最高裁判所",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4187,7 +4187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "否認権",
     anser3: "黙秘権",
     anser4: "社会権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4199,7 +4199,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "検察官",
     anser3: "警察官",
     anser4: "弁護士",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4211,7 +4211,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "勤労収入",
     anser3: "財産収入",
     anser4: "事業収入",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4223,7 +4223,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "勤労収入",
     anser3: "経営収入",
     anser4: "財産収入",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4235,7 +4235,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国民生活センター",
     anser3: "消費生活センター",
     anser4: "国民保護センター",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4247,7 +4247,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＡＣ法",
     anser3: "ＬＳ法",
     anser4: "ＮＧＯ法",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4259,7 +4259,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "生産財",
     anser3: "生活財",
     anser4: "消費財",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4271,7 +4271,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "クーリングオフ",
     anser3: "アセスメント",
     anser4: "クロージング",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4283,7 +4283,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "事業収入",
     anser3: "財産収入",
     anser4: "不動収入",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4295,7 +4295,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "長期消費財",
     anser3: "耐久消費財",
     anser4: "不動産消費財",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4307,7 +4307,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "消費者物価指数",
     anser3: "食費指数",
     anser4: "食料自給率",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4319,7 +4319,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "消費者安全法",
     anser3: "ＰＬ法",
     anser4: "消費者保護基本法",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4331,7 +4331,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "計画経済",
     anser3: "混合経済",
     anser4: "流通経済",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4343,7 +4343,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "金本位制度",
     anser3: "通貨管理制度",
     anser4: "国家紙幣制度",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4355,7 +4355,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日本政府",
     anser3: "金融庁",
     anser4: "日本銀行",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4367,7 +4367,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "金本位制度",
     anser3: "通貨管理制度",
     anser4: "国家紙幣制度",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4379,7 +4379,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "供給価格",
     anser3: "独占価格",
     anser4: "均衡価格",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4391,7 +4391,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "供給価格",
     anser3: "独占価格",
     anser4: "均衡価格",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4403,7 +4403,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "需要は上昇、供給は減少",
     anser3: "需要は減少、供給は上昇",
     anser4: "需要は減少、供給は減少",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4415,7 +4415,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "物価",
     anser3: "行政価格",
     anser4: "標準価格",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4427,7 +4427,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "独占価格",
     anser3: "取引価格",
     anser4: "行政価格",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4439,7 +4439,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "供給指数",
     anser3: "消費指数",
     anser4: "物価指数",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4451,7 +4451,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "株式会社",
     anser3: "総合会社",
     anser4: "証券会社",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4463,7 +4463,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "株仲間",
     anser3: "株主",
     anser4: "株家",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4475,7 +4475,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "株式会社",
     anser3: "社債会社",
     anser4: "株式会社",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4487,7 +4487,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "拡大再生産",
     anser3: "拡大産",
     anser4: "再生産",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4499,7 +4499,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "経営総会",
     anser3: "取締役会",
     anser4: "社員会",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4511,7 +4511,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大量消費",
     anser3: "生産過多",
     anser4: "大量生産",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4523,7 +4523,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "取締役会",
     anser3: "株主総会",
     anser4: "重役会",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4535,7 +4535,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "情報",
     anser3: "労働力",
     anser4: "資本財",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4547,7 +4547,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "株式企業",
     anser3: "私企業",
     anser4: "公企業",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4559,7 +4559,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "株式取引所",
     anser3: "証券取引所",
     anser4: "保健所",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4571,7 +4571,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハイパーインフレ",
     anser3: "デフレ",
     anser4: "インフレ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4583,7 +4583,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会主義経済",
     anser3: "国家社会主義",
     anser4: "監視主義経済",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4595,7 +4595,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "企業管理法",
     anser3: "ＰＬ法",
     anser4: "独占禁止法",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4607,7 +4607,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハイパーインフレ",
     anser3: "スタグフレ",
     anser4: "インフレ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4619,7 +4619,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "独占",
     anser3: "座",
     anser4: "寡占",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4631,7 +4631,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "経営破綻",
     anser3: "インサイダー",
     anser4: "景気変動",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4643,7 +4643,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "景気変動",
     anser3: "低成長",
     anser4: "景況感",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4655,7 +4655,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公正取引委員会",
     anser3: "公安委員会",
     anser4: "教育委員会",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4667,7 +4667,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "クリーク",
     anser3: "トラスト",
     anser4: "カルテル",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4679,7 +4679,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "自然主義経済",
     anser3: "社会主義経済",
     anser4: "監視主義経済",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4691,7 +4691,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日本銀行",
     anser3: "政府銀行",
     anser4: "ＩＭＦ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4703,7 +4703,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "プリペイドカード",
     anser3: "キャッシュカード",
     anser4: "クレジットカード",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4715,7 +4715,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小切手",
     anser3: "手形",
     anser4: "郵便為替",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4727,7 +4727,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "銀行",
     anser3: "保険会社",
     anser4: "不動産会社",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4739,7 +4739,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "利子",
     anser3: "為替",
     anser4: "小切手",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4751,7 +4751,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社債",
     anser3: "株式",
     anser4: "小切手",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4763,7 +4763,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日銀利子率",
     anser3: "預金準備率",
     anser4: "公定歩合",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4775,7 +4775,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "政府の銀行",
     anser3: "発券銀行",
     anser4: "銀行の銀行",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4787,7 +4787,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "兌換紙幣",
     anser3: "日本銀行券",
     anser4: "日本紙幣",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4799,7 +4799,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公定歩合政策",
     anser3: "新型オペ",
     anser4: "準備預金制度",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4811,7 +4811,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "労働組合法",
     anser3: "労働基本法",
     anser4: "労働基準法",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4823,7 +4823,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "労働関係調整法",
     anser3: "労働基準法",
     anser4: "労働組合法",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4835,7 +4835,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "終身雇用制度",
     anser3: "安定雇用制度",
     anser4: "定年雇用制度",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4847,7 +4847,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハローワーク",
     anser3: "調整委員会",
     anser4: "労働委員会",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4859,7 +4859,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "序列賃金",
     anser3: "安定賃金",
     anser4: "均一賃金",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4871,7 +4871,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "労働委員会",
     anser3: "労働組合",
     anser4: "ハローワーク",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4883,7 +4883,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ストライキ",
     anser3: "ワーキング",
     anser4: "メイデー",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4895,7 +4895,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "労働権",
     anser3: "争議権",
     anser4: "団体権",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4907,7 +4907,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "富裕層",
     anser3: "ワーキングリッチ",
     anser4: "ワーキングプア",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4919,7 +4919,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "20歳～60歳",
     anser3: "15歳～64歳",
     anser4: "18歳～65歳",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4931,7 +4931,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社債",
     anser3: "日銀債",
     anser4: "国地方債",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4943,7 +4943,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "決算",
     anser3: "財政",
     anser4: "財源",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -4955,7 +4955,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "天皇",
     anser3: "政府",
     anser4: "裁判所",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -4967,7 +4967,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "防衛費",
     anser3: "教育費",
     anser4: "社会保障費",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -4979,7 +4979,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "税",
     anser3: "保険料収入",
     anser4: "為替収入",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -4991,7 +4991,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "間接税",
     anser3: "消費税",
     anser4: "直接税",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5003,7 +5003,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "関税",
     anser3: "所得税",
     anser4: "譲渡税",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5015,7 +5015,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "消費税",
     anser3: "輸入税",
     anser4: "保護税",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5027,7 +5027,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "累進課税",
     anser3: "分担課税",
     anser4: "所得課税",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5039,7 +5039,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "福祉の再配分",
     anser3: "所得の再分配",
     anser4: "最大多数の幸福",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5051,7 +5051,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "生存権",
     anser3: "自由権",
     anser4: "参政権",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5063,7 +5063,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会福祉",
     anser3: "社会保険",
     anser4: "公的扶助",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5075,7 +5075,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "年金保険",
     anser3: "介護保険",
     anser4: "健康保険",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5087,7 +5087,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハローワーク",
     anser3: "公正取引委員会",
     anser4: "保健所",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5099,7 +5099,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "労災保険",
     anser3: "失業保険",
     anser4: "年金保険",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5111,7 +5111,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "雇用保険",
     anser3: "介護保険",
     anser4: "健康保険",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5123,7 +5123,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公衆衛生",
     anser3: "社会福祉",
     anser4: "公的扶助",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5135,7 +5135,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "年金保険",
     anser3: "労災保険",
     anser4: "介護保険",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5147,7 +5147,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会資本",
     anser3: "サービス財",
     anser4: "消費財",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5159,7 +5159,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会福祉",
     anser3: "公的扶助",
     anser4: "社会保険",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5171,7 +5171,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "派遣",
     anser3: "下請け",
     anser4: "天下り",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5183,7 +5183,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "公害影響法",
     anser3: "公害対策基本法",
     anser4: "環境制限法",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5195,7 +5195,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "第三債権",
     anser3: "優良債権",
     anser4: "不良債権",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5207,7 +5207,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "水俣病",
     anser3: "新潟水俣病",
     anser4: "四日市ぜんそく",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5219,7 +5219,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "水質汚濁",
     anser3: "大気汚染",
     anser4: "地盤沈下",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5231,7 +5231,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フロー経済",
     anser3: "バブル経済",
     anser4: "高度成長経済",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5243,7 +5243,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "窒素酸化物",
     anser3: "二酸化炭素",
     anser4: "硫黄酸化物",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5255,7 +5255,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "新潟水俣病",
     anser3: "水俣病",
     anser4: "イタイイタイ病",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5267,7 +5267,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オゾン層破壊",
     anser3: "酸性雨",
     anser4: "中性雨",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5279,7 +5279,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "環境アセスメント",
     anser3: "環境事前審査",
     anser4: "環境開発調査",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5291,7 +5291,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "領海",
     anser3: "公海",
     anser4: "国際海",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5303,7 +5303,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "経済水域",
     anser3: "領空",
     anser4: "領海",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5315,7 +5315,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "全大会",
     anser3: "安全保障理事会",
     anser4: "国家会議",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5327,7 +5327,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "200海里",
     anser3: "300海里",
     anser4: "500海里",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5339,7 +5339,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＷＨＯ",
     anser3: "UNICEF",
     anser4: "UNESCO",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5351,7 +5351,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＩＬＯ",
     anser3: "ＰＫＯ",
     anser4: "ＩＡＥＡ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5363,7 +5363,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "世界貿易機関",
     anser3: "国際原子力機関",
     anser4: "世界保健機関",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5375,7 +5375,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日本",
     anser3: "ロシア",
     anser4: "中国",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5387,7 +5387,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国際原子力機関",
     anser3: "世界保健機関",
     anser4: "国際労働機関",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5399,7 +5399,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "解散権",
     anser3: "拒否権",
     anser4: "統帥権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5411,7 +5411,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＩＭＦ",
     anser3: "ＩＡＥＡ",
     anser4: "ＷＴＯ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5423,7 +5423,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "多国籍企業",
     anser3: "私企業",
     anser4: "公企業",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5435,7 +5435,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "外貨交換相場",
     anser3: "貨幣相場",
     anser4: "金相場",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5447,7 +5447,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "為替",
     anser3: "替金",
     anser4: "交換比率",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5459,7 +5459,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＯＤＡ",
     anser3: "ＰＫＯ",
     anser4: "ＮＰＯ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5471,7 +5471,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中国",
     anser3: "アメリカ",
     anser4: "日本",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5483,7 +5483,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "経済摩擦",
     anser3: "南北戦争",
     anser4: "南北経済",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5495,7 +5495,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アメリカ",
     anser3: "中国",
     anser4: "イギリス",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5507,7 +5507,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "次世代社会",
     anser3: "循環型社会",
     anser4: "効率化社会",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5519,7 +5519,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化炭素",
     anser3: "フロン",
     anser4: "酸素",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5531,7 +5531,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "高度少子社会",
     anser3: "高度文明社会",
     anser4: "少子高齢化社会",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5543,7 +5543,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "青年海外協力隊",
     anser3: "ＯＤＡ",
     anser4: "技術支援隊",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5555,7 +5555,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "社会政府二論",
     anser3: "社会契約論",
     anser4: "善悪の彼岸",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5567,7 +5567,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "象徴天皇",
     anser3: "基本的人権の尊重",
     anser4: "国民主権",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5579,7 +5579,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "満２５歳以上",
     anser3: "満３０歳以上",
     anser4: "満３５歳以上",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5591,7 +5591,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "教育を受ける権利",
     anser3: "平等権",
     anser4: "労働基本権",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5603,7 +5603,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "通常国会",
     anser3: "特別国会",
     anser4: "標準国会",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5615,7 +5615,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "参議院議長",
     anser3: "天皇",
     anser4: "与党党首",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5627,7 +5627,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国勢調査",
     anser3: "弾劾裁判",
     anser4: "投票審査",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5639,7 +5639,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "違憲立法審査権",
     anser3: "弾劾裁判",
     anser4: "衆議院の解散",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5651,7 +5651,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "物価",
     anser3: "商品価格",
     anser4: "商品係数",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5663,7 +5663,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "為替管理制度",
     anser3: "金本位制度",
     anser4: "発行管理制度",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5675,7 +5675,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "株主金",
     anser3: "株金",
     anser4: "配当金",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5687,7 +5687,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "所得税",
     anser3: "企業税",
     anser4: "法人税",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5699,7 +5699,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ＧＤＰ",
     anser3: "ＰＫＯ",
     anser4: "ＩＬＯ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "civics",
@@ -5711,7 +5711,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "平等",
     anser3: "義務",
     anser4: "責任",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5723,7 +5723,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "第９条",
     anser3: "第２２条",
     anser4: "第２５条",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "civics",
@@ -5735,7 +5735,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "国際条約法",
     anser3: "国家法",
     anser4: "国連法",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "civics",
@@ -5747,7 +5747,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "スイス",
     anser3: "アメリカ",
     anser4: "日本",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "civics",
@@ -5759,7 +5759,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "安全保障理事会",
     anser3: "国連総会",
     anser4: "世界貿易機関",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -5771,7 +5771,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "直角脈",
     anser3: "網状脈",
     anser4: "不整脈",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -5783,7 +5783,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "浄化",
     anser3: "蒸留",
     anser4: "蒸散",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -5795,7 +5795,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "葉緑素",
     anser3: "葉縁素",
     anser4: "葉緑光",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -5807,7 +5807,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "深緑",
     anser3: "赤褐色",
     anser4: "黒",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -5819,7 +5819,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "黄",
     anser3: "緑",
     anser4: "青",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -5831,7 +5831,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "毛根",
     anser3: "主根と側根",
     anser4: "大根",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -5843,7 +5843,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "道管",
     anser3: "根毛",
     anser4: "師管",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -5855,7 +5855,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大きい順に並ぶ",
     anser3: "決まりはない",
     anser4: "形成層に沿って並ぶ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -5867,7 +5867,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "師管",
     anser3: "同じ",
     anser4: "決まりはない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -5879,7 +5879,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "養分・水分の通り道",
     anser3: "土中の酸素を吸う",
     anser4: "光合成をする",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -5891,7 +5891,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "虫を寄せつける",
     anser3: "光合成をする",
     anser4: "果実になる",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -5903,7 +5903,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "被子植物",
     anser3: "食虫植物",
     anser4: "熱帯植物",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -5915,7 +5915,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "花びら",
     anser3: "柱頭",
     anser4: "胚珠",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -5927,7 +5927,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "花",
     anser3: "根",
     anser4: "葉",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -5939,7 +5939,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "表皮",
     anser3: "胚",
     anser4: "胚乳",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -5951,7 +5951,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イチゴ",
     anser3: "ミカン",
     anser4: "エンドウ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -5963,7 +5963,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "雌花",
     anser3: "雄株",
     anser4: "雌株",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -5975,7 +5975,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "胚",
     anser3: "幼芽",
     anser4: "子葉",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -5987,7 +5987,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "４枚",
     anser3: "５枚",
     anser4: "６枚",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -5999,7 +5999,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "裸子植物",
     anser3: "種子植物",
     anser4: "シダ植物",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6011,7 +6011,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "調節ねじ",
     anser3: "しぼり",
     anser4: "ステージ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6023,7 +6023,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "見やすくするため",
     anser3: "操作が楽だから",
     anser4: "見にくいから",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6035,7 +6035,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "広く暗くなる",
     anser3: "狭く暗くなる",
     anser4: "狭く明るくなる",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6047,7 +6047,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "カバーガラス",
     anser3: "スライドガラス",
     anser4: "ステージ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6059,7 +6059,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ミドリムシ",
     anser3: "ミジンコ",
     anser4: "アメーバ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6071,7 +6071,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ゾウリムシ",
     anser3: "ミドリムシ",
     anser4: "ミカヅキモ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6083,7 +6083,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ミカヅキモ",
     anser3: "アメーバ",
     anser4: "ゾウリムシ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6095,7 +6095,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "40倍",
     anser3: "400倍",
     anser4: "4000倍",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6107,7 +6107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "対物レンズ",
     anser3: "両方同時",
     anser4: "順番はない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6119,7 +6119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "対物レンズ",
     anser3: "両方同時",
     anser4: "順番はない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6131,7 +6131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "揺れ",
     anser3: "振動",
     anser4: "振動数",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6143,7 +6143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "水",
     anser3: "真空",
     anser4: "体",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6155,7 +6155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "振動力",
     anser3: "振動音",
     anser4: "振動波",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6167,7 +6167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "音色",
     anser3: "振幅",
     anser4: "音量",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6179,7 +6179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "低音",
     anser3: "音程",
     anser4: "波長",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6191,7 +6191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "歌のうまさ",
     anser3: "音の透明感",
     anser4: "音程",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6203,7 +6203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "秋空",
     anser3: "上空",
     anser4: "真空",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6215,7 +6215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大きな音",
     anser3: "高い音",
     anser4: "変な音",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6227,7 +6227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大きな音",
     anser3: "高い音",
     anser4: "変な音",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6239,7 +6239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "秒速34ｍ",
     anser3: "秒速340ｍ",
     anser4: "秒速3400ｍ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6251,7 +6251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "入射角の方が大きい",
     anser3: "同じ大きさである",
     anser4: "比べられない",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6263,7 +6263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "笑点",
     anser3: "衝点",
     anser4: "照点",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6275,7 +6275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "実像",
     anser3: "偶像",
     anser4: "土偶",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6287,7 +6287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "実象",
     anser3: "虚像",
     anser4: "実像",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6299,7 +6299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "波長",
     anser3: "焦点距離",
     anser4: "波長距離",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6311,7 +6311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "直進する",
     anser3: "反射する",
     anser4: "屈折しない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6323,7 +6323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "直進する",
     anser3: "反射する",
     anser4: "光が通らない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6335,7 +6335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "銅像",
     anser3: "虚像",
     anser4: "虚構",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6347,7 +6347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "乱れ撃ち",
     anser3: "乱気流",
     anser4: "乱入射",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6359,7 +6359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "全反射",
     anser3: "全入時代",
     anser4: "全入射",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6371,7 +6371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "重量",
     anser3: "軽量",
     anser4: "体重",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6383,7 +6383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "体重",
     anser3: "重さ",
     anser4: "重力",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6395,7 +6395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "抗力",
     anser3: "引力",
     anser4: "圧力",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6407,7 +6407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Kg",
     anser3: "hPa",
     anser4: "km/時",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6419,7 +6419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1013hPa",
     anser3: "10130hPa",
     anser4: "10.13hPa",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6431,7 +6431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "山のふもと",
     anser3: "山の中腹",
     anser4: "山頂",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6443,7 +6443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "約12g/l",
     anser3: "約120g/l",
     anser4: "約0.12g/l",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6455,7 +6455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小さくなる",
     anser3: "面積は関係ない",
     anser4: "面積が０になる",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6467,7 +6467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "圧力が大きいから",
     anser3: "圧力が小さいから",
     anser4: "重力に逆らうから",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6479,7 +6479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "増える",
     anser3: "小さくしぼむ",
     anser4: "ふくらむ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6491,7 +6491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "魔力",
     anser3: "弾性力",
     anser4: "電気力",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6503,7 +6503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "弾性力",
     anser3: "透視力",
     anser4: "磁力",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6515,7 +6515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "重力",
     anser3: "斥力",
     anser4: "抗力",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6527,7 +6527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "摩擦",
     anser3: "充電",
     anser4: "静電気",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6539,7 +6539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "電池",
     anser3: "電源",
     anser4: "帯電体",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6551,7 +6551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "摩擦力",
     anser3: "重力",
     anser4: "斥力",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6563,7 +6563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "10ｇ重",
     anser3: "100ｇ重",
     anser4: "1000ｇ重",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6575,7 +6575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "半分",
     anser3: "３分の１",
     anser4: "６分の１",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6587,7 +6587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "抗力",
     anser3: "反発力",
     anser4: "磁力",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6599,7 +6599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "反対の向き",
     anser3: "垂直向き",
     anser4: "向きは決まっていない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6611,7 +6611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "下方置換法",
     anser3: "上方置換法",
     anser4: "圧力置換法",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6623,7 +6623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "水上置換法",
     anser3: "下方置換法",
     anser4: "遠心分離法",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6635,7 +6635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "上方置換法",
     anser3: "熱伝導効率法",
     anser4: "水上置換法",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6647,7 +6647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "真水",
     anser3: "有機物",
     anser4: "混合液",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6659,7 +6659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "溶媒",
     anser3: "溶液",
     anser4: "溶質",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6671,7 +6671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "溶媒",
     anser3: "水溶液",
     anser4: "溶液",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6683,7 +6683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "溶解度",
     anser3: "角度",
     anser4: "飽和度",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6695,7 +6695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "溶解",
     anser3: "氷結",
     anser4: "凝固",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6707,7 +6707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アルカリ性化",
     anser3: "酸性",
     anser4: "アレルギー性",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6719,7 +6719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸性",
     anser3: "中性",
     anser4: "一過性",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6731,7 +6731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "示準化石",
     anser3: "指示化石",
     anser4: "示験化石",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6743,7 +6743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フズリナ",
     anser3: "アンモナイト",
     anser4: "ナウマンゾウ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6755,7 +6755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中生代",
     anser3: "新生代",
     anser4: "どれにも当たらない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6767,7 +6767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "示準化石",
     anser3: "指示化石",
     anser4: "示験化石",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6779,7 +6779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "冷たく深い海",
     anser3: "温かくきれいな湖",
     anser4: "冷たくきれいな湖",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6791,7 +6791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハマグリ",
     anser3: "シジミ",
     anser4: "アンモナイト",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6803,7 +6803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "噴火",
     anser3: "地震",
     anser4: "火事",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6815,7 +6815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "上から",
     anser3: "まん中から",
     anser4: "決まっていない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6827,7 +6827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "誰の記憶にもあるから",
     anser3: "灰がつもりやすいから",
     anser4: "広範囲につもるから",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6839,7 +6839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "山",
     anser3: "湖",
     anser4: "平地",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6851,7 +6851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "深生岩",
     anser3: "深成岩",
     anser4: "神聖岩",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6863,7 +6863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "少し深いところ",
     anser3: "地下深く",
     anser4: "山の上",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6875,7 +6875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地下深く",
     anser3: "河の付近",
     anser4: "海の付近",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6887,7 +6887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "急激に冷えたもの",
     anser3: "ゆっくり温められた",
     anser4: "急激に温められたもの",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6899,7 +6899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "急激に冷えたもの",
     anser3: "ゆっくり温められた",
     anser4: "急激に温められたもの",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6911,7 +6911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "等粒状組織",
     anser3: "斑状組織",
     anser4: "任侠組織",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6923,7 +6923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "秘密組織",
     anser3: "斑状組織",
     anser4: "等粒状組織",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6935,7 +6935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "朱雀岩",
     anser3: "青龍岩",
     anser4: "白虎岩",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6947,7 +6947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "斑レイ岩",
     anser3: "判例岩",
     anser4: "凡例岩",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -6959,7 +6959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "半晶",
     anser3: "反晶",
     anser4: "斑晶",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -6971,7 +6971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "短石",
     anser3: "縦石",
     anser4: "横石",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -6983,7 +6983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ドウラン石",
     anser3: "カンラン石",
     anser4: "センラン石",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -6995,7 +6995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "とても柔らかい",
     anser3: "薄くはがれる",
     anser4: "くずれやすい",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7007,7 +7007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "正方形に近い形",
     anser3: "円に近い形",
     anser4: "形は決まっていない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7019,7 +7019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "黒い石である",
     anser3: "ひし形をしている",
     anser4: "うすくはがれやすい",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7031,7 +7031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "礫岩",
     anser3: "凝灰岩",
     anser4: "泥岩",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7043,7 +7043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アオミドロ",
     anser3: "ホウサンチュウ",
     anser4: "カブトガニ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7055,7 +7055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "凝灰岩",
     anser3: "石灰岩",
     anser4: "砂岩",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7067,7 +7067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "礫岩",
     anser3: "石灰岩",
     anser4: "チャート",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7079,7 +7079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "石灰岩",
     anser3: "泥岩",
     anser4: "砂岩",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7091,7 +7091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "緑化",
     anser3: "近代化",
     anser4: "機械化",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7103,7 +7103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "共食い",
     anser3: "強食",
     anser4: "浸食",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7115,7 +7115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "礫岩",
     anser3: "瓦礫",
     anser4: "チャート",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7127,7 +7127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "砂岩",
     anser3: "礫岩",
     anser4: "どれも同じ重さ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7139,7 +7139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "泥岩",
     anser3: "砂岩",
     anser4: "どれも同じに流れる",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7151,7 +7151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "砂岩",
     anser3: "泥岩",
     anser4: "どれも同じ大きさ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7163,7 +7163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "石灰岩",
     anser3: "凝灰岩",
     anser4: "岩塩",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7175,7 +7175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "凝灰岩",
     anser3: "泥岩",
     anser4: "石灰岩",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7187,7 +7187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "運搬",
     anser3: "堆積",
     anser4: "三角州",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7199,7 +7199,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地下深く",
     anser3: "湖",
     anser4: "流れのある水中",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7211,7 +7211,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "化学変化",
     anser3: "質量変化",
     anser4: "物質変化",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7223,7 +7223,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "状態変化",
     anser3: "変身",
     anser4: "化学変化",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7235,7 +7235,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "分身",
     anser3: "分解",
     anser4: "分家",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7247,7 +7247,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸素",
     anser3: "二酸化炭素",
     anser4: "炭素",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7259,7 +7259,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸素",
     anser3: "二酸化炭素",
     anser4: "炭素",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7271,7 +7271,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "石灰石",
     anser3: "貝殻",
     anser4: "水",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7283,7 +7283,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "食塩",
     anser3: "水酸化ナトリウム",
     anser4: "アンモニア",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7295,7 +7295,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "リトマス紙",
     anser3: "ＢＴＢ溶液",
     anser4: "紫キャベツ液",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7307,7 +7307,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "水素",
     anser3: "窒素",
     anser4: "二酸化炭素",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7319,7 +7319,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "1:02",
     anser3: "2:01",
     anser4: "3:01",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7331,7 +7331,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "単純",
     anser3: "単位",
     anser4: "単体",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7343,7 +7343,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "化学物",
     anser3: "水溶液",
     anser4: "混合物",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7355,7 +7355,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "同素体",
     anser3: "同一物",
     anser4: "同一人物",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7367,7 +7367,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "混合物質",
     anser3: "混合物",
     anser4: "混同体",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7379,7 +7379,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "原子",
     anser3: "分子",
     anser4: "単体",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7391,7 +7391,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "H2O",
     anser3: "MgO",
     anser4: "NH3",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7403,7 +7403,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸素",
     anser3: "炭素",
     anser4: "ナトリウム",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7415,7 +7415,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "カリウム",
     anser3: "金",
     anser4: "窒素",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7427,7 +7427,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸素",
     anser3: "炭酸アンモニウム",
     anser4: "水酸化ナトリウム",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7439,7 +7439,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化炭素",
     anser3: "窒素",
     anser4: "水素",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7451,7 +7451,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "分離",
     anser3: "化合",
     anser4: "化学",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7463,7 +7463,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "一瞬だけかぐ",
     anser3: "かいではいけない",
     anser4: "手であおぐようにかぐ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7475,7 +7475,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "さび",
     anser3: "とうがらし",
     anser4: "しちみ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7487,7 +7487,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "激化",
     anser3: "燃焼",
     anser4: "焼却",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7499,7 +7499,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "青",
     anser3: "白",
     anser4: "黒",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7511,7 +7511,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "硫化銅",
     anser3: "二酸化銅",
     anser4: "水酸化銅",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7523,7 +7523,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸化銅",
     anser3: "酸化マグネシウム",
     anser4: "酸化硫黄",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7535,7 +7535,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化炭素",
     anser3: "塩酸",
     anser4: "硫酸",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7547,7 +7547,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Al",
     anser3: "Zn",
     anser4: "Hg",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7559,7 +7559,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "MgO",
     anser3: "2MgO",
     anser4: "OMg",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7571,7 +7571,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化炭素",
     anser3: "酸素",
     anser4: "光",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7583,7 +7583,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸素",
     anser3: "二酸化炭素",
     anser4: "さび",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7595,7 +7595,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "内炎",
     anser3: "炎心",
     anser4: "炎色",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7607,7 +7607,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小さくなる",
     anser3: "変わらない",
     anser4: "質量は関係ない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7619,7 +7619,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "還元",
     anser3: "復元",
     anser4: "酸化",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7631,7 +7631,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "窒素",
     anser3: "二酸化炭素",
     anser4: "酸素",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7643,7 +7643,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中和熱",
     anser3: "気化熱",
     anser4: "粗熱",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7655,7 +7655,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "還元剤",
     anser3: "酸化剤",
     anser4: "電池",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7667,7 +7667,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸化",
     anser3: "発電",
     anser4: "吸熱",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7679,7 +7679,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "銅板版と銅板",
     anser3: "炭素棒と炭素棒",
     anser4: "亜鉛板と銅板",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7691,7 +7691,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "慣性の法則",
     anser3: "感性の法則",
     anser4: "官製の法則",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7703,7 +7703,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "変速湾曲運動",
     anser3: "等速直線運動",
     anser4: "等速直球運動",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7715,7 +7715,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "運動エネルギー",
     anser3: "力学的エネルギー",
     anser4: "光子力エネルギー",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7727,7 +7727,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "物質エネルギー",
     anser3: "位置エネルギー",
     anser4: "力学的エネルギー",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7739,7 +7739,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "力学的",
     anser3: "科学的",
     anser4: "力場的",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7751,7 +7751,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "重力・引力",
     anser3: "作用・反作用",
     anser4: "やれば・やられる",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7763,7 +7763,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "反比例のグラフ",
     anser3: "放物線のグラフ",
     anser4: "グラフにできない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7775,7 +7775,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "力学的エネルギー",
     anser3: "運動エネルギー",
     anser4: "光エネルギー",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7787,7 +7787,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "5.5秒",
     anser3: "6秒",
     anser4: "6.5秒",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7799,7 +7799,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "最高速度が下がる",
     anser3: "慣性の法則に従う",
     anser4: "最高速度は変わらない",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7811,7 +7811,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "空気と同じ重さ",
     anser3: "空気より重い",
     anser4: "重さがない",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7823,7 +7823,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "空気より少し重い",
     anser3: "空気と同じ重さ",
     anser4: "重さがない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7835,7 +7835,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "空気より重い",
     anser3: "空気と同じ重さ",
     anser4: "重さがない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7847,7 +7847,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "においのある気体",
     anser3: "水によく溶ける気体",
     anser4: "無色無臭の気体",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7859,7 +7859,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化炭素",
     anser3: "過酸化水素水",
     anser4: "塩酸",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7871,7 +7871,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "過酸化水素水",
     anser3: "水",
     anser4: "圧力",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7883,7 +7883,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化マンガン",
     anser3: "炭酸水素ナトリウム",
     anser4: "石灰石",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -7895,7 +7895,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "卵の白身",
     anser3: "貝殻",
     anser4: "ペットボトル",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -7907,7 +7907,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "酸素",
     anser3: "二酸化炭素",
     anser4: "アンモニア",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7919,7 +7919,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "温室効果",
     anser3: "温感効果",
     anser4: "つり橋効果",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7931,7 +7931,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "海の流れ",
     anser3: "南極の氷が溶けたから",
     anser4: "動物の呼吸",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7943,7 +7943,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "間隔が狭い",
     anser3: "間隔が等しい",
     anser4: "等圧線は関係ない",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7955,7 +7955,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "下降気流",
     anser3: "偏西風",
     anser4: "風は吹かない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7967,7 +7967,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "反時計回り",
     anser3: "中心に向かって吹く",
     anser4: "風は吹かない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -7979,7 +7979,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "直射日光の当たる所",
     anser3: "ジメジメしていないところ",
     anser4: "風通しのよい所",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -7991,7 +7991,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "温度の低い方",
     anser3: "色がちがう",
     anser4: "見分けられない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8003,7 +8003,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "8方位",
     anser3: "16方位",
     anser4: "32方位",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8015,7 +8015,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "洞窟の中",
     anser3: "山のふもと",
     anser4: "山の頂上",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8027,7 +8027,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "海",
     anser3: "両方同じくらい",
     anser4: "決められない",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8039,7 +8039,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "台風",
     anser3: "海風",
     anser4: "季節風",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8051,7 +8051,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "最大水蒸気量",
     anser3: "絶対水蒸気量",
     anser4: "飽和水蒸気量",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8063,7 +8063,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "露点",
     anser3: "沸点",
     anser4: "融点",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8075,7 +8075,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "巻雲",
     anser3: "積乱雲",
     anser4: "雲はできない",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8087,7 +8087,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "温暖前線",
     anser3: "台風",
     anser4: "閉そく前線",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8099,7 +8099,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "寒冷前線",
     anser3: "台風",
     anser4: "閉そく前線",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8111,7 +8111,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "冷たく乾燥している",
     anser3: "暖かく湿っている",
     anser4: "冷たく湿っている",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8123,7 +8123,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "冷たく乾燥している",
     anser3: "暖かく湿っている",
     anser4: "冷たく湿っている",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8135,7 +8135,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "南極付近",
     anser3: "日本付近",
     anser4: "赤道付近",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8147,7 +8147,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "寒冷前線",
     anser3: "温暖前線",
     anser4: "高気圧",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8159,7 +8159,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "南から北",
     anser3: "東から西",
     anser4: "西から東",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8171,7 +8171,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "セキツイ動物",
     anser3: "無セキツイ動物",
     anser4: "無セキズイ動物",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8183,7 +8183,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "魚類",
     anser3: "両生類",
     anser4: "は虫類",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8195,7 +8195,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "魚類",
     anser3: "両生類",
     anser4: "は虫類",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8207,7 +8207,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "魚類",
     anser3: "両生類",
     anser4: "鳥類",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8219,7 +8219,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "魚類",
     anser3: "両生類",
     anser4: "は虫類",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8231,7 +8231,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "魚類",
     anser3: "両生類",
     anser4: "藻類",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8243,7 +8243,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "草食動物",
     anser3: "雑食動物",
     anser4: "魚類",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8255,7 +8255,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "カエル",
     anser3: "ライオン",
     anser4: "フクロウ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8267,7 +8267,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "カエル",
     anser3: "ヤマギシ",
     anser4: "イルカ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8279,7 +8279,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "安産",
     anser3: "胎生",
     anser4: "新生",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8291,7 +8291,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "赤血球",
     anser3: "白血球",
     anser4: "血小板",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8303,7 +8303,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "青い色素",
     anser3: "黄色い色素",
     anser4: "紫の色素",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8315,7 +8315,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "赤血球",
     anser3: "白血球",
     anser4: "血小板",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8327,7 +8327,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "赤血球",
     anser3: "白血球",
     anser4: "血小板",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8339,7 +8339,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "静脈",
     anser3: "水脈",
     anser4: "山脈",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8351,7 +8351,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "静脈",
     anser3: "水脈",
     anser4: "山脈",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8363,7 +8363,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "右心室",
     anser3: "左心房",
     anser4: "左心室",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8375,7 +8375,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "静脈血",
     anser3: "肺動脈",
     anser4: "大静脈",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8387,7 +8387,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "動脈",
     anser3: "毛細血管",
     anser4: "リンパ管",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8399,7 +8399,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "消化",
     anser3: "排出",
     anser4: "呼吸",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8411,7 +8411,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "網膜",
     anser3: "脈絡膜",
     anser4: "横隔膜",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8423,7 +8423,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "うずまき管",
     anser3: "三半規管",
     anser4: "耳小骨",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8435,7 +8435,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "角膜",
     anser3: "中耳",
     anser4: "うずまき管",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8447,7 +8447,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "冷覚",
     anser3: "痛覚",
     anser4: "圧覚",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8459,7 +8459,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "未しょう神経",
     anser3: "感覚器官",
     anser4: "運動器官",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8471,7 +8471,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "反復",
     anser3: "反射",
     anser4: "反芻",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8483,7 +8483,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "体を支える",
     anser3: "血球の生産",
     anser4: "内臓の復元",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8495,7 +8495,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "外骨格",
     anser3: "外殻",
     anser4: "内膜",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8507,7 +8507,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "たて",
     anser3: "やり",
     anser4: "よろい",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8519,7 +8519,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "間接",
     anser3: "関節",
     anser4: "直接",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8531,7 +8531,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "消化酸素",
     anser3: "消化ヨウ素",
     anser4: "消化葉緑素",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8543,7 +8543,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小腸",
     anser3: "肝臓",
     anser4: "胃",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8555,7 +8555,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "だ液",
     anser3: "腸液",
     anser4: "胆汁",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8567,7 +8567,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "胆のう",
     anser3: "柔毛",
     anser4: "すい臓",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8579,7 +8579,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ブドウ糖",
     anser3: "脂肪酸",
     anser4: "グリセリン",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8591,7 +8591,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アミノ酸",
     anser3: "ブドウ糖",
     anser4: "デンプン",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "science",
@@ -8603,7 +8603,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アミノ酸",
     anser3: "ブドウ糖",
     anser4: "脂肪酸",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "science",
@@ -8615,7 +8615,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "たんぱく質を消化する",
     anser3: "脂肪を消化する",
     anser4: "水分を吸収する",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "science",
@@ -8627,7 +8627,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "36℃",
     anser3: "46℃",
     anser4: "86℃",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "science",
@@ -8639,7 +8639,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "胆汁",
     anser3: "すい液",
     anser4: "腸液",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8651,7 +8651,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "緯線",
     anser3: "経線",
     anser4: "回帰線",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8663,7 +8663,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "赤道",
     anser3: "北回帰線",
     anser4: "南回帰線",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8675,7 +8675,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日付変更線",
     anser3: "日付決定線",
     anser4: "標準時子午線",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8687,7 +8687,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "方位",
     anser3: "距離",
     anser4: "面積",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -8699,7 +8699,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "標準時子午線",
     anser3: "本初子午線",
     anser4: "回帰線",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8711,7 +8711,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "西経135度",
     anser3: "東経45度",
     anser4: "東経135度",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -8723,7 +8723,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "４時間",
     anser3: "６時間",
     anser4: "８時間",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8735,7 +8735,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "等圧線",
     anser3: "等高線",
     anser4: "等度線",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8747,7 +8747,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "工場",
     anser3: "神社",
     anser4: "広葉樹林",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -8759,7 +8759,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "発電所",
     anser3: "町村役場",
     anser4: "市役所",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -8771,7 +8771,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インドネシア",
     anser3: "インド",
     anser4: "中国",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -8783,7 +8783,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中国",
     anser3: "アメリカ",
     anser4: "カナダ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -8795,7 +8795,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "韓国",
     anser3: "バチカン市国",
     anser4: "マダカスタル",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8807,7 +8807,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ドイツ",
     anser3: "イギリス",
     anser4: "メキシコ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8819,7 +8819,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フランス",
     anser3: "オーストラリア",
     anser4: "ブラジル",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -8831,7 +8831,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オーストラリア大陸",
     anser3: "アフリカ大陸",
     anser4: "北アメリカ大陸",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -8843,7 +8843,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "38万平方km",
     anser3: "180万平方km",
     anser4: "180万平方km",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8855,7 +8855,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "択捉島",
     anser3: "沖ノ鳥島",
     anser4: "国後島",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8867,7 +8867,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "硫黄島",
     anser3: "沖ノ鳥島",
     anser4: "種子島",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8879,7 +8879,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "沖ノ鳥島",
     anser3: "屋久島",
     anser4: "南鳥島",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -8891,7 +8891,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "東京都",
     anser3: "香川県",
     anser4: "大阪府",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8903,7 +8903,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大阪府",
     anser3: "愛知県",
     anser4: "神奈川県",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -8915,7 +8915,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鳥取県",
     anser3: "島根県",
     anser4: "沖縄県",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8927,7 +8927,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "京都府",
     anser3: "滋賀県",
     anser4: "熊本県",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8939,7 +8939,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "47",
     anser3: "49",
     anser4: "51",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8951,7 +8951,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "福島市",
     anser3: "古川市",
     anser4: "石巻市",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -8963,7 +8963,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "津市",
     anser3: "大津市",
     anser4: "伊勢市",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -8975,7 +8975,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "高松市",
     anser3: "今治市",
     anser4: "松山市",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -8987,7 +8987,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "伊勢崎市",
     anser3: "前橋市",
     anser4: "高崎市",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -8999,7 +8999,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "松山市",
     anser3: "出雲市",
     anser4: "米子市",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9011,7 +9011,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "島根県",
     anser3: "長崎県",
     anser4: "佐賀県",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9023,7 +9023,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中京工業地域",
     anser3: "福岡工業地域",
     anser4: "北九州工業地域",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9035,7 +9035,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "屋久島",
     anser3: "種子島",
     anser4: "天草諸島",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9047,7 +9047,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ソウル",
     anser3: "テジョン",
     anser4: "プサン",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9059,7 +9059,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "宮崎平野",
     anser3: "中津平野",
     anser4: "筑後平野",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9071,7 +9071,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "輪中",
     anser3: "クリーク",
     anser4: "フェーン",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9083,7 +9083,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "雲仙岳",
     anser3: "桜島",
     anser4: "白髪岳",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9095,7 +9095,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "別府湾",
     anser3: "大村湾",
     anser4: "唐津湾",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9107,7 +9107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "製糸業",
     anser3: "造船業",
     anser4: "石油化学工業",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9119,7 +9119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "阿多山",
     anser3: "阿蘇山",
     anser4: "加久藤山",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9131,7 +9131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "なし・さくらんぼ",
     anser3: "ぶどう・もも",
     anser4: "りんご",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9143,7 +9143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "しまなみ大橋",
     anser3: "瀬戸大橋",
     anser4: "神戸大橋",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9155,7 +9155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "雨が少ない",
     anser3: "強風が吹く",
     anser4: "台風がよく通る",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9167,7 +9167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "みかん",
     anser3: "いちご",
     anser4: "白桃",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9179,7 +9179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鳥取県",
     anser3: "福井県",
     anser4: "島根県",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9191,7 +9191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ため池",
     anser3: "クリーク",
     anser4: "輪中",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9203,7 +9203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "原爆ビル",
     anser3: "原爆ドーム",
     anser4: "平和の森",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9215,7 +9215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "促成栽培",
     anser3: "機械栽培",
     anser4: "高原栽培",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9227,7 +9227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中国工業地域",
     anser3: "瀬戸内工業地域",
     anser4: "播磨臨海工業地域",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9239,7 +9239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "親潮",
     anser3: "偏西風",
     anser4: "黒潮",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9251,7 +9251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "伊吹山地",
     anser3: "紀伊山地",
     anser4: "中国山地",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9263,7 +9263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "阪神工業地帯",
     anser3: "大阪工業地帯",
     anser4: "京浜工業地帯",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9275,7 +9275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "マグロ",
     anser3: "真珠",
     anser4: "ホタテ貝",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9287,7 +9287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "三重県",
     anser3: "和歌山県",
     anser4: "滋賀県",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9299,7 +9299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "筑後川",
     anser3: "長良川",
     anser4: "淀川",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9311,7 +9311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "諏訪盆地",
     anser3: "近江盆地",
     anser4: "京都盆地",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9323,7 +9323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "６分の１",
     anser3: "10分の１",
     anser4: "12分の１",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9335,7 +9335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "和歌山空港",
     anser3: "伊丹空港",
     anser4: "中部国際空港",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9347,7 +9347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "播磨臨海工業地域",
     anser3: "瀬戸内工業地域",
     anser4: "鹿島臨海工業地域",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9359,7 +9359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "松山市",
     anser3: "松江市",
     anser4: "大津市",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9371,7 +9371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中京工業地帯",
     anser3: "名古屋工業地帯",
     anser4: "京浜工業地帯",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9383,7 +9383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "長野県",
     anser3: "山梨県",
     anser4: "静岡県",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9395,7 +9395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "播磨臨海工業地域",
     anser3: "鹿島臨海工業地域",
     anser4: "京葉工業地域",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9407,7 +9407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "造船業",
     anser3: "精密機械業",
     anser4: "自動車業",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9419,7 +9419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "風力発電所",
     anser3: "水力発電所",
     anser4: "火力発電所",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9431,7 +9431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "カレスト",
     anser3: "クリーク",
     anser4: "輪中",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9443,7 +9443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "三重県",
     anser3: "群馬県",
     anser4: "山梨県",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9455,7 +9455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "促成野菜",
     anser3: "冷涼野菜",
     anser4: "近郊野菜",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9467,7 +9467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "製紙・パルプ業",
     anser3: "自動車業",
     anser4: "石油化学工業",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9479,7 +9479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "さくらんぼ",
     anser3: "米",
     anser4: "小麦",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9491,7 +9491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "山梨県",
     anser3: "群馬県",
     anser4: "栃木県",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9503,7 +9503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "５分の１",
     anser3: "10分の１",
     anser4: "20分の１",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9515,7 +9515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "京浜工業地域",
     anser3: "鹿島臨海工業地域",
     anser4: "京葉工業地域",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9527,7 +9527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "印刷・出版業",
     anser3: "鉄鋼業",
     anser4: "造船業",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9539,7 +9539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "丸の内・大手町",
     anser3: "台場・豊洲",
     anser4: "永田町・霞ヶ関",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9551,7 +9551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "バームクーヘン現象",
     anser3: "ドーナツ化現象",
     anser4: "フェーン現象",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9563,7 +9563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "丸の内・大手町",
     anser3: "台場・豊洲",
     anser4: "永田町・霞ヶ関",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9575,7 +9575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "利根川",
     anser3: "荒川",
     anser4: "隅田川",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9587,7 +9587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "印旛沼",
     anser3: "猪苗代湖",
     anser4: "浜名湖",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "北九州工業地帯",
@@ -9599,7 +9599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "4",
     anser3: "",
     anser4: "",
-    cnrrect: ""
+    correct: ""
   },
   {
     subject: "geography",
@@ -9611,7 +9611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "最上平野",
     anser3: "山形平野",
     anser4: "庄内平野",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9623,7 +9623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "りんご",
     anser3: "みかん",
     anser4: "さくらんぼ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9635,7 +9635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ラニーニャ現象",
     anser3: "クリープ現象",
     anser4: "エルニーニョ現象",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9647,7 +9647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "漁目",
     anser3: "漁点",
     anser4: "潮目",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9659,7 +9659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "偏西風",
     anser3: "やませ",
     anser4: "からっ風",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9671,7 +9671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ぶどう",
     anser3: "さくらんぼ",
     anser4: "もも",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9683,7 +9683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日南海岸",
     anser3: "富津海岸",
     anser4: "三陸海岸",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9695,7 +9695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "北見山地",
     anser3: "紀伊山地",
     anser4: "筑紫山地",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9707,7 +9707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "新潟県",
     anser3: "福島県",
     anser4: "山形県",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9719,7 +9719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "奥羽山脈",
     anser3: "飛騨山脈",
     anser4: "越後山脈",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9731,7 +9731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "札幌",
     anser3: "釧路",
     anser4: "函館",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9743,7 +9743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "宇和盆地",
     anser3: "上川盆地",
     anser4: "甲府盆地",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9755,7 +9755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アボリジニ",
     anser3: "ヌールト",
     anser4: "アイヌ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9767,7 +9767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "天塩平野",
     anser3: "札幌平野",
     anser4: "勇払平野",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9779,7 +9779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "佐渡島",
     anser3: "択捉島",
     anser4: "色丹島",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9791,7 +9791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "焼津港",
     anser3: "釧路港",
     anser4: "八戸港",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9803,7 +9803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鉄鋼業",
     anser3: "石油化学工業",
     anser4: "機械業",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9815,7 +9815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "武蔵野台地",
     anser3: "下総台地",
     anser4: "根釧台地",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9827,7 +9827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "シベリア海",
     anser3: "オホーツク海",
     anser4: "太平洋",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9839,7 +9839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "さつまいも",
     anser3: "じゃがいも",
     anser4: "てんさい",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9851,7 +9851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "北京",
     anser3: "上海",
     anser4: "西安",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9863,7 +9863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アイヌ民族",
     anser3: "満州民族",
     anser4: "漢民族",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9875,7 +9875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "長江",
     anser3: "ガンジス川",
     anser4: "黄河",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9887,7 +9887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アルプス山脈",
     anser3: "ヒマラヤ山脈",
     anser4: "ロッキー山脈",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9899,7 +9899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "５カ年計画",
     anser3: "改革開放",
     anser4: "人口改革",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9911,7 +9911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インチョン",
     anser3: "ピョンヤン",
     anser4: "プサン",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9923,7 +9923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "WTO",
     anser3: "APEC",
     anser4: "ASEAN",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -9935,7 +9935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インドネシア",
     anser3: "中国",
     anser4: "ロシア",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -9947,7 +9947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "APEC",
     anser3: "OPEC",
     anser4: "OECD",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9959,7 +9959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "プランテーション",
     anser3: "モノカルチャー",
     anser4: "単一作園",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9971,7 +9971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "EURO",
     anser3: "EU",
     anser4: "OPEC",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -9983,7 +9983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ユーロ",
     anser3: "円",
     anser4: "ポンド",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -9995,7 +9995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イギリス",
     anser3: "イタリア",
     anser4: "ドイツ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10007,7 +10007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オランダ",
     anser3: "ドイツ",
     anser4: "フランス",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10019,7 +10019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アルプス山脈",
     anser3: "ヒマラヤ山脈",
     anser4: "ロッキー山脈",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10031,7 +10031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "スラブ民族",
     anser3: "ゲルマン民族",
     anser4: "アイヌ民族",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10043,7 +10043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロンドンパリトンネル",
     anser3: "ドーバートンネル",
     anser4: "ユーロトンネル",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10055,7 +10055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "フランクフルト",
     anser3: "ベルリン",
     anser4: "ミュンヘン",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10067,7 +10067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ライン川",
     anser3: "ロアール川",
     anser4: "ポー川",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10079,7 +10079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "飼育農業",
     anser3: "畜産農業",
     anser4: "混合農業",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10091,7 +10091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インド洋",
     anser3: "黒海",
     anser4: "地中海",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10103,7 +10103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ミラノ",
     anser3: "ローマ",
     anser4: "フィレンツェ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10115,7 +10115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ルネサンス",
     anser3: "十字軍",
     anser4: "キリスト文化運動",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10127,7 +10127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "温暖化対策",
     anser3: "排水のため",
     anser4: "発電のため",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10139,7 +10139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アムステルダム",
     anser3: "ハーグ",
     anser4: "ロッテルダム",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10151,7 +10151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ユーロトンネル",
     anser3: "ＥＵ港",
     anser4: "ユーロポート",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10163,7 +10163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "パンパ",
     anser3: "スワンサ",
     anser4: "干潟",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10175,7 +10175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ロンドン",
     anser3: "ダブリン",
     anser4: "ケンブリッジ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10187,7 +10187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "黒海油田",
     anser3: "ユーロ油田",
     anser4: "北海油田",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10199,7 +10199,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "名誉革命",
     anser3: "産業革命",
     anser4: "通信革命",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10211,7 +10211,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アンデス山脈",
     anser3: "アルプス山脈",
     anser4: "ロッキー山脈",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10223,7 +10223,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ピッツバーグ",
     anser3: "ワシントン",
     anser4: "ロサンゼルス",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10235,7 +10235,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アルゼンチン",
     anser3: "ブラジル",
     anser4: "カナダ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10247,7 +10247,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "資本主義",
     anser3: "自由主義",
     anser4: "軍国主義",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10259,7 +10259,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "デトロイト",
     anser3: "シアトル",
     anser4: "ニューヨーク",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10271,7 +10271,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アンデス山脈",
     anser3: "アルプス山脈",
     anser4: "ロッキー山脈",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10283,7 +10283,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ヒスパニック",
     anser3: "アングロサクソン",
     anser4: "アジアン",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10295,7 +10295,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ベーカー街",
     anser3: "ウォール街",
     anser4: "兜町",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10307,7 +10307,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "マイアミ",
     anser3: "ヒューストン",
     anser4: "ダラス",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10319,7 +10319,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ナイル川",
     anser3: "ミシシッピ川",
     anser4: "アマゾン川",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10331,7 +10331,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "夏",
     anser3: "秋",
     anser4: "冬",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10343,7 +10343,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "キャンベラ",
     anser3: "シドニー",
     anser4: "メルボルン",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10355,7 +10355,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日本",
     anser3: "中国",
     anser4: "ニュージーランド",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10367,7 +10367,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ドイツ語",
     anser3: "英語",
     anser4: "オーストラリア語",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10379,7 +10379,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インディアン",
     anser3: "オセアニアン",
     anser4: "アボリジニ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10391,7 +10391,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アスマラ",
     anser3: "ナイロビ",
     anser4: "バーレーン",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10403,7 +10403,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ナイル川",
     anser3: "アマゾン川",
     anser4: "コンゴ川",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10415,7 +10415,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハムツール",
     anser3: "チェニス",
     anser4: "プレトリア",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10427,7 +10427,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "タスマニア",
     anser3: "ニューカレドニア",
     anser4: "タヒチ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10439,7 +10439,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "サハラ砂漠",
     anser3: "タクラマガン砂漠",
     anser4: "カラハリ砂漠",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10451,7 +10451,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "チェニス海岸",
     anser3: "リアス海岸",
     anser4: "のこぎり海岸",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10463,7 +10463,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "赤石山脈",
     anser3: "木曽山脈",
     anser4: "飛騨山脈",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10475,7 +10475,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "大井川",
     anser3: "信濃川",
     anser4: "利根川",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10487,7 +10487,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "環大西洋造山帯",
     anser3: "インドネシア造山帯",
     anser4: "地中海造山帯",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10499,7 +10499,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "信濃川",
     anser3: "利根川",
     anser4: "神通川",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10511,7 +10511,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "親潮",
     anser3: "黒潮",
     anser4: "潮目",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10523,7 +10523,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "海溝",
     anser3: "浅瀬",
     anser4: "大陸棚",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10535,7 +10535,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "赤潮",
     anser3: "潮目",
     anser4: "黒潮",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10547,7 +10547,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ライン川",
     anser3: "ミシシッピ川",
     anser4: "アマゾン川",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10559,7 +10559,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アンデス山脈",
     anser3: "パミール高原",
     anser4: "ヒマラヤ山脈",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10571,7 +10571,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "偏西風",
     anser3: "貿易風",
     anser4: "モンスーン",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10583,7 +10583,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "偏西風",
     anser3: "貿易風",
     anser4: "モンスーン",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10595,7 +10595,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ステップ",
     anser3: "ツンドラ",
     anser4: "タイガ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10607,7 +10607,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ステップ",
     anser3: "ツンドラ",
     anser4: "タイガ",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10619,7 +10619,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ツンドラ",
     anser3: "サバナ",
     anser4: "ステップ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10631,7 +10631,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "温暖湿潤気候",
     anser3: "熱帯雨林気候",
     anser4: "地中海性気候",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10643,7 +10643,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "霧",
     anser3: "梅雨",
     anser4: "秋雨",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10655,7 +10655,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ハリケーン",
     anser3: "梅雨",
     anser4: "秋雨",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10667,7 +10667,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "北海道札幌市",
     anser3: "新潟県新潟市",
     anser4: "長野県松本市",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10679,7 +10679,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "東京都新宿区",
     anser3: "岡山県岡山市",
     anser4: "沖縄県那覇市",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10691,7 +10691,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "６０億人",
     anser3: "７０億人",
     anser4: "８０億人",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10703,7 +10703,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "過密",
     anser3: "過度",
     anser4: "人口爆発",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10715,7 +10715,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アフリカ",
     anser3: "アメリカ",
     anser4: "アジア",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10727,7 +10727,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "１億3000万人",
     anser3: "１億6000万人",
     anser4: "２億人",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10739,7 +10739,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "高齢化",
     anser3: "エリート化",
     anser4: "少数化",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10751,7 +10751,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "移民",
     anser3: "難民",
     anser4: "被害者",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10763,7 +10763,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "スラム街",
     anser3: "難民街",
     anser4: "富裕街",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10775,7 +10775,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ドーナツ化現象",
     anser3: "エルニーニョ現象",
     anser4: "ラニーニャ現象",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10787,7 +10787,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "人口衰退",
     anser3: "都市集中",
     anser4: "過疎",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10799,7 +10799,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "難民",
     anser3: "多国籍人",
     anser4: "外人",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10811,7 +10811,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "40%",
     anser3: "60%",
     anser4: "80%",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10823,7 +10823,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "収入農家",
     anser3: "専業農家",
     anser4: "大規模農家",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10835,7 +10835,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "50%",
     anser3: "75%",
     anser4: "95%",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10847,7 +10847,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "風力",
     anser3: "原子力",
     anser4: "石油",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10859,7 +10859,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "高齢化",
     anser3: "大規模農家の増加",
     anser4: "兼業農家の増加",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10871,7 +10871,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "栽培漁業",
     anser3: "沿岸漁業",
     anser4: "沖合漁業",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10883,7 +10883,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "京浜工業地帯",
     anser3: "中京工業地帯",
     anser4: "関東工業地域",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10895,7 +10895,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "原子力発電",
     anser3: "火力発電",
     anser4: "水力発電",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10907,7 +10907,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "加工貿易",
     anser3: "中継貿易",
     anser4: "先端貿易",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10919,7 +10919,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "京浜工業地帯",
     anser3: "関東内陸工業地域",
     anser4: "阪神工業地帯",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10931,7 +10931,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "第２次産業",
     anser3: "第３次産業",
     anser4: "第４次産業",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10943,7 +10943,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "小売業",
     anser3: "仲介業",
     anser4: "不動産業",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -10955,7 +10955,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "東京都",
     anser3: "三重県",
     anser4: "鳥取県",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -10967,7 +10967,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "スーパーマーケット",
     anser3: "コンビニ",
     anser4: "デパート",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -10979,7 +10979,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "愛知県",
     anser3: "広島県",
     anser4: "沖縄県",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -10991,7 +10991,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "リゾート産業",
     anser3: "保険業",
     anser4: "福祉産業",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11003,7 +11003,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "マスメディア",
     anser3: "通信教育",
     anser4: "介護サービス",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11015,7 +11015,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インターネット通販",
     anser3: "スーパーマーケット",
     anser4: "デパート",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11027,7 +11027,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "教育産業",
     anser3: "保険業",
     anser4: "福祉産業",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11039,7 +11039,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "製造業",
     anser3: "運輸業",
     anser4: "金融業",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11051,7 +11051,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イタイイタイ病",
     anser3: "四日市ぜんそく",
     anser4: "新潟水俣病",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11063,7 +11063,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地盤沈下",
     anser3: "水質汚濁",
     anser4: "土壌汚染",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11075,7 +11075,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イタイイタイ病",
     anser3: "四日市ぜんそく",
     anser4: "新潟水俣病",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11087,7 +11087,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "カドミウム",
     anser3: "亜硫酸ガス",
     anser4: "窒素酸化物",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11099,7 +11099,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イタイイタイ病",
     anser3: "四日市ぜんそく",
     anser4: "新潟水俣病",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11111,7 +11111,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オゾン",
     anser3: "二酸化炭素",
     anser4: "フロン",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11123,7 +11123,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "日照調査",
     anser3: "環境アセスメント",
     anser4: "環境模索",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11135,7 +11135,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "水酸化雨",
     anser3: "炭酸雨",
     anser4: "酸性雨",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11147,7 +11147,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "二酸化炭素",
     anser3: "酸素",
     anser4: "ダイオキシン",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11159,7 +11159,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "生育期間",
     anser3: "水",
     anser4: "化学肥料",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11171,7 +11171,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "イギリス",
     anser3: "韓国",
     anser4: "アメリカ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11183,7 +11183,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中東",
     anser3: "ヨーロッパ",
     anser4: "東アジア",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11195,7 +11195,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鉱物資源",
     anser3: "生糸・綿織物",
     anser4: "機械・車",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11207,7 +11207,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "関西国際空港",
     anser3: "成田空港",
     anser4: "中部国際空港",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11219,7 +11219,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "鉱物資源",
     anser3: "生糸・綿織物",
     anser4: "機械・車",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11231,7 +11231,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "貿易摩擦",
     anser3: "貿易戦争",
     anser4: "貿易問題",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11243,7 +11243,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "自動車",
     anser3: "船",
     anser4: "鉄道",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11255,7 +11255,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "インターネット",
     anser3: "ＡＤＳＬ",
     anser4: "ＷＥＢ2.0",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11267,7 +11267,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "航空機",
     anser3: "船",
     anser4: "自動車",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11279,7 +11279,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "航空機",
     anser3: "新幹線",
     anser4: "船",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11291,7 +11291,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "とうもろこし",
     anser3: "米",
     anser4: "大豆",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11303,7 +11303,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "木",
     anser3: "レンガ",
     anser4: "石",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11315,7 +11315,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "アジア",
     anser3: "ヨーロッパ",
     anser4: "アメリカ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11327,7 +11327,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "醤油",
     anser3: "砂糖",
     anser4: "香辛料",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11339,7 +11339,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "豚",
     anser3: "魚",
     anser4: "鳥",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11351,7 +11351,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ジーンズ",
     anser3: "キルト",
     anser4: "サロン",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11363,7 +11363,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "キリスト教",
     anser3: "仏教",
     anser4: "イスラム教",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11375,7 +11375,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ヒンドゥー教",
     anser3: "イスラム教",
     anser4: "キリスト教",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11387,7 +11387,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "サリー",
     anser3: "着物",
     anser4: "キルト",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11399,7 +11399,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "西アジア",
     anser3: "南アメリカ",
     anser4: "ヨーロッパ",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11411,7 +11411,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "神道",
     anser3: "キリスト教",
     anser4: "イスラム教",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11423,7 +11423,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オーストラリア",
     anser3: "アメリカ",
     anser4: "中国",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11435,7 +11435,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "中国",
     anser3: "アメリカ",
     anser4: "フランス",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11447,7 +11447,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "障子",
     anser3: "土間",
     anser4: "床の間",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "geography",
@@ -11459,7 +11459,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "方言",
     anser3: "地方語",
     anser4: "方便",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11471,7 +11471,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "九谷焼",
     anser3: "有田焼",
     anser4: "西陣織",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "geography",
@@ -11483,7 +11483,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "時代祭",
     anser3: "歴史祭",
     anser4: "祇園祭",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "geography",
@@ -11495,7 +11495,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "シーサー",
     anser3: "シャチホコ",
     anser4: "海老",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11507,7 +11507,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "さとうきび",
     anser3: "てんさい",
     anser4: "米",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "geography",
@@ -11519,7 +11519,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "地震対策",
     anser3: "強風対策",
     anser4: "雷対策",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11531,7 +11531,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sister",
     anser3: "family",
     anser4: "cousin",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11543,7 +11543,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "mother",
     anser3: "aunt",
     anser4: "uncle",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11555,7 +11555,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "people",
     anser3: "person",
     anser4: "friend",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -11567,7 +11567,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "student",
     anser3: "child",
     anser4: "doctor",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11579,7 +11579,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "singer",
     anser3: "pilot",
     anser4: "scientist",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11591,7 +11591,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "violinist",
     anser3: "pianist",
     anser4: "singer",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11603,7 +11603,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "writer",
     anser3: "runner",
     anser4: "listener",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11615,7 +11615,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "lunch",
     anser3: "supper",
     anser4: "dinner",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11627,7 +11627,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "student",
     anser3: "foreigner",
     anser4: "foreign",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11639,7 +11639,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "meat",
     anser3: "milk",
     anser4: "bread",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11651,7 +11651,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "glass",
     anser3: "dish",
     anser4: "knife",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11663,7 +11663,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "apple",
     anser3: "tomato",
     anser4: "fruit",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11675,7 +11675,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "coffee",
     anser3: "cheese",
     anser4: "water",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11687,7 +11687,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "dress",
     anser3: "cloth",
     anser4: "hat",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11699,7 +11699,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "face",
     anser3: "eye",
     anser4: "nose",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11711,7 +11711,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "tooth",
     anser3: "head",
     anser4: "ear",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -11723,7 +11723,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "finger",
     anser3: "leg",
     anser4: "foot",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11735,7 +11735,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "desk",
     anser3: "chair",
     anser4: "room",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11747,7 +11747,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "camera",
     anser3: "watch",
     anser4: "clock",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11759,7 +11759,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "album",
     anser3: "calendar",
     anser4: "newspaper",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11771,7 +11771,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "doll",
     anser3: "paper",
     anser4: "card",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11783,7 +11783,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "coin",
     anser3: "computer",
     anser4: "money",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11795,7 +11795,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "football",
     anser3: "basketball",
     anser4: "baseball",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11807,7 +11807,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "globe",
     anser3: "racket",
     anser4: "ball",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11819,7 +11819,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "classmate",
     anser3: "class",
     anser4: "club",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11831,7 +11831,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "pencil",
     anser3: "eraser",
     anser4: "notebook",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11843,7 +11843,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "history",
     anser3: "music",
     anser4: "mathematics",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11855,7 +11855,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "language",
     anser3: "subject",
     anser4: "poem",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -11867,7 +11867,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "dance",
     anser3: "piano",
     anser4: "guitar",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11879,7 +11879,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "violin",
     anser3: "guitar",
     anser4: "drum",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -11891,7 +11891,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "work",
     anser3: "do",
     anser4: "have",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11903,7 +11903,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speak",
     anser3: "come",
     anser4: "read",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11915,7 +11915,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "read",
     anser3: "eat",
     anser4: "look",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -11927,7 +11927,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "run",
     anser3: "sing",
     anser4: "play",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11939,7 +11939,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "know",
     anser3: "walk",
     anser4: "work",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -11951,7 +11951,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "say",
     anser3: "find",
     anser4: "want",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -11963,7 +11963,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "make",
     anser3: "run",
     anser4: "swim",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -11975,7 +11975,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "talk",
     anser3: "help",
     anser4: "study",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11987,7 +11987,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "walk",
     anser3: "live",
     anser4: "love",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -11999,7 +11999,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "work",
     anser3: "read",
     anser4: "help",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12011,7 +12011,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "find",
     anser3: "walk",
     anser4: "want",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12023,7 +12023,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "go",
     anser3: "come",
     anser4: "live",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12035,7 +12035,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "catch",
     anser3: "call",
     anser4: "read",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12047,7 +12047,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stand",
     anser3: "call",
     anser4: "cook",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12059,7 +12059,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "know",
     anser3: "drink",
     anser4: "walk",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12071,7 +12071,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wait",
     anser3: "wash",
     anser4: "close",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12083,7 +12083,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "invite",
     anser3: "sit",
     anser4: "help",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12095,7 +12095,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "go",
     anser3: "come",
     anser4: "wait",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12107,7 +12107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "buy",
     anser3: "say",
     anser4: "meet",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12119,7 +12119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stand",
     anser3: "leave",
     anser4: "look",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12131,7 +12131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "small",
     anser3: "new",
     anser4: "beautiful",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12143,7 +12143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "new",
     anser3: "large",
     anser4: "high",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12155,7 +12155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "old",
     anser3: "large",
     anser4: "young",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12167,7 +12167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "short",
     anser3: "tall",
     anser4: "long",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12179,7 +12179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "good",
     anser3: "beautiful",
     anser4: "pretty",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12191,7 +12191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "large",
     anser3: "bad",
     anser4: "low",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12203,7 +12203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "nice",
     anser3: "little",
     anser4: "tall",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12215,7 +12215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cloudy",
     anser3: "rainy",
     anser4: "snowy",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12227,7 +12227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "warm",
     anser3: "cool",
     anser4: "hot",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12239,7 +12239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "different",
     anser3: "easy",
     anser4: "interesting",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12251,7 +12251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hard",
     anser3: "cold",
     anser4: "hot",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12263,7 +12263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "new",
     anser3: "old",
     anser4: "cool",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12275,7 +12275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "high",
     anser3: "interesting",
     anser4: "pretty",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12287,7 +12287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "soft",
     anser3: "fast",
     anser4: "good",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12299,7 +12299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fast",
     anser3: "bad",
     anser4: "hot",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12311,7 +12311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "small",
     anser3: "early",
     anser4: "pretty",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12323,7 +12323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "short",
     anser3: "high",
     anser4: "slowly",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12335,7 +12335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "foolish",
     anser3: "young",
     anser4: "rainy",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12347,7 +12347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "favorite",
     anser3: "beautiful",
     anser4: "interesting",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12359,7 +12359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "different",
     anser3: "popular",
     anser4: "important",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12371,7 +12371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hard",
     anser3: "fast",
     anser4: "well",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12383,7 +12383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "fast",
     anser4: "often",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12395,7 +12395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "early",
     anser3: "sometimes",
     anser4: "always",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12407,7 +12407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "bad",
     anser4: "often",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12419,7 +12419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sometimes",
     anser3: "often",
     anser4: "softly",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12431,7 +12431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "often",
     anser4: "fast",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12443,7 +12443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "lately",
     anser3: "bad",
     anser4: "slow",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12455,7 +12455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "bad",
     anser3: "always",
     anser4: "sometimes",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12467,7 +12467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fast",
     anser3: "much",
     anser4: "often",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12479,7 +12479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "good",
     anser3: "bad",
     anser4: "lately",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12491,7 +12491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "over",
     anser3: "in",
     anser4: "with",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12503,7 +12503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "in",
     anser3: "on",
     anser4: "at",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12515,7 +12515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "without",
     anser3: "into",
     anser4: "on",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12527,7 +12527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "under",
     anser3: "with",
     anser4: "avobe",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12539,7 +12539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "without",
     anser3: "over",
     anser4: "for",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12551,7 +12551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "from",
     anser3: "in",
     anser4: "through",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12563,7 +12563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "without",
     anser3: "on",
     anser4: "to",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12575,7 +12575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "by",
     anser3: "over",
     anser4: "about",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12587,7 +12587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "after",
     anser3: "over",
     anser4: "about",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12599,7 +12599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "under",
     anser3: "after",
     anser4: "before",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12611,7 +12611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "D",
     anser3: "R",
     anser4: "J",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12623,7 +12623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "n",
     anser3: "o",
     anser4: "l",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12635,7 +12635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "l",
     anser3: "r",
     anser4: "m",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12647,7 +12647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "B",
     anser3: "C",
     anser4: "D",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12659,7 +12659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "g",
     anser3: "h",
     anser4: "i",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12671,7 +12671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "l",
     anser3: "g",
     anser4: "z",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12683,7 +12683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "m",
     anser3: "f",
     anser4: "h",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12695,7 +12695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "e",
     anser3: "o",
     anser4: "a",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12707,7 +12707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "p",
     anser3: "b",
     anser4: "d",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12719,7 +12719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "D",
     anser3: "L",
     anser4: "R",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12731,7 +12731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "u",
     anser3: "e",
     anser4: "o",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12743,7 +12743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "l",
     anser3: "r",
     anser4: "t",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12755,7 +12755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "r",
     anser3: "j",
     anser4: "m",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12767,7 +12767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "g",
     anser3: "t",
     anser4: "w",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12779,7 +12779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "g",
     anser3: "h",
     anser4: "t",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12791,7 +12791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "l",
     anser3: "h",
     anser4: "f",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12803,7 +12803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "i",
     anser3: "u",
     anser4: "e",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12815,7 +12815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "r",
     anser3: "y",
     anser4: "h",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12827,7 +12827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "e",
     anser3: "a",
     anser4: "o",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12839,7 +12839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "w",
     anser3: "l",
     anser4: "r",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12851,7 +12851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "i",
     anser3: "u",
     anser4: "e",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12863,7 +12863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "d",
     anser3: "t",
     anser4: "f",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12875,7 +12875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "e",
     anser3: "a",
     anser4: "u",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12887,7 +12887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "f",
     anser3: "r",
     anser4: "s",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12899,7 +12899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "v",
     anser3: "h",
     anser4: "r",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12911,7 +12911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "l",
     anser3: "a",
     anser4: "h",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12923,7 +12923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "m",
     anser3: "l",
     anser4: "r",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12935,7 +12935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "d",
     anser3: "w",
     anser4: "v",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -12947,7 +12947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "t",
     anser3: "m",
     anser4: "v",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -12959,7 +12959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "w",
     anser3: "m",
     anser4: "r",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -12971,7 +12971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "balls",
     anser3: "balles",
     anser4: "ballen",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12983,7 +12983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "friends",
     anser3: "friendes",
     anser4: "friender",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -12995,7 +12995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "unckees",
     anser3: "uncle",
     anser4: "unclee",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13007,7 +13007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "orangee",
     anser3: "oranges",
     anser4: "oranger",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13019,7 +13019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "watche",
     anser3: "watchee",
     anser4: "watches",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13031,7 +13031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "tomatose",
     anser3: "tomatoes",
     anser4: "tomatee",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13043,7 +13043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "babyes",
     anser3: "baby",
     anser4: "babies",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13055,7 +13055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "peoplees",
     anser3: "peopls",
     anser4: "people",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13067,7 +13067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "mans",
     anser3: "men",
     anser4: "mens",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13079,7 +13079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "childs",
     anser3: "childes",
     anser4: "chldrens",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13091,7 +13091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "p",
     anser3: "q",
     anser4: "r",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13103,7 +13103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "w",
     anser3: "x",
     anser4: "y",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13115,7 +13115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "i",
     anser3: "j",
     anser4: "k",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13127,7 +13127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "k",
     anser3: "n",
     anser4: "m",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13139,7 +13139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "e",
     anser3: "o",
     anser4: "u",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13151,7 +13151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "p",
     anser3: "q",
     anser4: "r",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13163,7 +13163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "u",
     anser3: "o",
     anser4: "a",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13175,7 +13175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "k",
     anser3: "a",
     anser4: "c",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13187,7 +13187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "n",
     anser3: "e",
     anser4: "s",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13199,7 +13199,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "w",
     anser3: "t",
     anser4: "y",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13211,7 +13211,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "lookes",
     anser3: "look",
     anser4: "lookks",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13223,7 +13223,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speakes",
     anser3: "speaks",
     anser4: "speakss",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13235,7 +13235,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "writes",
     anser3: "writee",
     anser4: "writs",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13247,7 +13247,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "meetes",
     anser3: "meetss",
     anser4: "meets",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13259,7 +13259,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "gos",
     anser3: "goos",
     anser4: "goes",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13271,7 +13271,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "catches",
     anser3: "catch",
     anser4: "catche",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13283,7 +13283,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "finde",
     anser3: "finds",
     anser4: "findes",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13295,7 +13295,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "haves",
     anser3: "havees",
     anser4: "has",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13307,7 +13307,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "talkes",
     anser3: "talks",
     anser4: "talke",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13319,7 +13319,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "usees",
     anser3: "usee",
     anser4: "useses",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13331,7 +13331,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "about",
     anser3: "garden",
     anser4: "guitar",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13343,7 +13343,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "bird",
     anser3: "first",
     anser4: "birthday",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13355,7 +13355,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "third",
     anser3: "write",
     anser4: "find",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13367,7 +13367,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "color",
     anser3: "work",
     anser4: "mother",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13379,7 +13379,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "look",
     anser3: "school",
     anser4: "cook",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13391,7 +13391,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sea",
     anser3: "leave",
     anser4: "breakfast",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13403,7 +13403,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "moon",
     anser3: "school",
     anser4: "wood",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13415,7 +13415,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "word",
     anser3: "Monday",
     anser4: "month",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13427,7 +13427,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "without",
     anser3: "cousin",
     anser4: "cloud",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13439,7 +13439,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "all",
     anser3: "April",
     anser4: "paper",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13451,7 +13451,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "watches",
     anser3: "goes",
     anser4: "finds",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13463,7 +13463,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "calls",
     anser3: "takes",
     anser4: "sells",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13475,7 +13475,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "teaches",
     anser3: "watches",
     anser4: "touches",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13487,7 +13487,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "works",
     anser3: "talks",
     anser4: "speaks",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13499,7 +13499,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "takes",
     anser3: "helps",
     anser4: "cooks",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13511,7 +13511,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "says",
     anser3: "drives",
     anser4: "sings",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13523,7 +13523,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cuts",
     anser3: "eats",
     anser4: "gets",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13535,7 +13535,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "buys",
     anser3: "wears",
     anser4: "wants",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13547,7 +13547,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "comes",
     anser3: "uses",
     anser4: "watches",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13559,7 +13559,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "thinks",
     anser3: "leaves",
     anser4: "stops",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13571,7 +13571,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "学校の後",
     anser3: "放課後",
     anser4: "朝自習",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13583,7 +13583,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "お互いに",
     anser3: "二人とも",
     anser4: "みんなで",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13595,7 +13595,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "at",
     anser3: "with",
     anser4: "on",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13607,7 +13607,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "on",
     anser3: "at",
     anser4: "to",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13619,7 +13619,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "犬を飼う",
     anser3: "犬を食べる",
     anser4: "犬が持つ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13631,7 +13631,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "木の上",
     anser3: "森の中",
     anser4: "森の下",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13643,7 +13643,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "家の中",
     anser3: "机の上",
     anser4: "テーブルの上",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13655,7 +13655,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "通りを走って",
     anser3: "通りを避けて",
     anser4: "通りをまたいで",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13667,7 +13667,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "オーストラリアと一緒に",
     anser3: "オーストラリア出身の",
     anser4: "オーストラリアの上に",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13679,7 +13679,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "あなただけを",
     anser3: "あなたの上に",
     anser4: "あなたで",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13691,7 +13691,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "study",
     anser3: "listen",
     anser4: "run",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13703,7 +13703,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "of",
     anser3: "for",
     anser4: "on",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13715,7 +13715,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "on",
     anser3: "with",
     anser4: "to",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13727,7 +13727,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "is",
     anser3: "am",
     anser4: "speaks",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13739,7 +13739,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "notebooks",
     anser3: "papers",
     anser4: "pictures",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13751,7 +13751,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "come",
     anser3: "sit",
     anser4: "speak",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13763,7 +13763,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "from",
     anser3: "of",
     anser4: "with",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13775,7 +13775,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cook",
     anser3: "open",
     anser4: "go",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13787,7 +13787,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "February",
     anser3: "March",
     anser4: "April",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13799,7 +13799,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "under",
     anser3: "over",
     anser4: "in",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13811,7 +13811,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "At seven.",
     anser3: "By bus.",
     anser4: "Afternoon.",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13823,7 +13823,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "You're welcome.",
     anser3: "At ten.",
     anser4: "Over there.",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13835,7 +13835,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "In the kitchen.",
     anser3: "Go to Kyoto.",
     anser4: "I'm OK.",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13847,7 +13847,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "You're welcome.",
     anser3: "Good morning.",
     anser4: "Thank you.",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13859,7 +13859,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "It's tomorrow.",
     anser3: "It's on the table.",
     anser4: "It's alright.",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13871,7 +13871,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "It's small.",
     anser3: "It's white.",
     anser4: "It's mine.",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13883,7 +13883,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Thanks.",
     anser3: "I can.",
     anser4: "In the library.",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13895,7 +13895,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "At six.",
     anser3: "It's two thousands yen.",
     anser4: "I'm 160cm.",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13907,7 +13907,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "After school",
     anser3: "I'm sorry",
     anser4: "Here you are",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13919,7 +13919,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "It's mine.",
     anser3: "It's a lily.",
     anser4: "It's Saturday.",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13931,7 +13931,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "into",
     anser3: "under",
     anser4: "over",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -13943,7 +13943,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "us",
     anser3: "him",
     anser4: "me",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -13955,7 +13955,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Am",
     anser3: "Do",
     anser4: "Does",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh1",
@@ -13967,7 +13967,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Are",
     anser3: "Do",
     anser4: "Does",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13979,7 +13979,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Get",
     anser3: "Watch",
     anser4: "Make",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -13991,7 +13991,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "She",
     anser3: "He",
     anser4: "We",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -14003,7 +14003,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "right",
     anser3: "night",
     anser4: "day",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh1",
@@ -14015,7 +14015,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Them",
     anser3: "Theirs",
     anser4: "They",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh1",
@@ -14027,7 +14027,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "plays",
     anser3: "playing",
     anser4: "player",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh1",
@@ -14039,7 +14039,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "get",
     anser3: "make",
     anser4: "talk",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14051,7 +14051,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "merchant",
     anser3: "mayor",
     anser4: "servant",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14063,7 +14063,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "head",
     anser3: "president",
     anser4: "proffesor",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14075,7 +14075,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "tourist",
     anser3: "foreigner",
     anser4: "neighbor",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14087,7 +14087,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "volunteer",
     anser3: "neighbor",
     anser4: "foreigner",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14099,7 +14099,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "shop",
     anser3: "sir",
     anser4: "guest",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14111,7 +14111,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "vegetable",
     anser3: "banana",
     anser4: "sugar",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14123,7 +14123,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "live",
     anser3: "life",
     anser4: "person",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14135,7 +14135,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "door",
     anser3: "wall",
     anser4: "roof",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14147,7 +14147,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "book",
     anser3: "magazine",
     anser4: "textbook",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14159,7 +14159,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "treasure",
     anser3: "jewel",
     anser4: "ring",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14171,7 +14171,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "question",
     anser3: "answer",
     anser4: "homework",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14183,7 +14183,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "grade",
     anser3: "examination",
     anser4: "example",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14195,7 +14195,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "movie",
     anser3: "ticket",
     anser4: "travel",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14207,7 +14207,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "adress",
     anser3: "journy",
     anser4: "sign",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14219,7 +14219,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "party",
     anser3: "vacation",
     anser4: "business",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14231,7 +14231,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speech",
     anser3: "job",
     anser4: "meeting",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14243,7 +14243,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sheep",
     anser3: "wolf",
     anser4: "rat",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14255,7 +14255,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rabbit",
     anser3: "tiger",
     anser4: "bird",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14267,7 +14267,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "goose",
     anser3: "pig",
     anser4: "chicken",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14279,7 +14279,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "plant",
     anser3: "frog",
     anser4: "insect",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14291,7 +14291,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sky",
     anser3: "moon",
     anser4: "planet",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14303,7 +14303,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rock",
     anser3: "mountain",
     anser4: "lake",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14315,7 +14315,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "nature",
     anser3: "building",
     anser4: "fire",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14327,7 +14327,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ice",
     anser3: "heat",
     anser4: "ground",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14339,7 +14339,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "island",
     anser3: "ocean",
     anser4: "sea",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14351,7 +14351,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "desert",
     anser3: "beach",
     anser4: "field",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14363,7 +14363,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "night",
     anser3: "sunrise",
     anser4: "sunset",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14375,7 +14375,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "railroad",
     anser3: "rainbow",
     anser4: "rain",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14387,7 +14387,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "station",
     anser3: "accident",
     anser4: "bicycle",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14399,7 +14399,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "building",
     anser3: "station",
     anser4: "park",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14411,7 +14411,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "east",
     anser3: "west",
     anser4: "south",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14423,7 +14423,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "summer",
     anser3: "autumn",
     anser4: "winter",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14435,7 +14435,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "quarter",
     anser3: "million",
     anser4: "thousand",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14447,7 +14447,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "plan",
     anser3: "road",
     anser4: "way",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14459,7 +14459,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "joy",
     anser3: "plan",
     anser4: "thing",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14471,7 +14471,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "chance",
     anser3: "piece",
     anser4: "kind",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14483,7 +14483,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "beginner",
     anser3: "size",
     anser4: "age",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14495,7 +14495,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "luck",
     anser3: "way",
     anser4: "feeling",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14507,7 +14507,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "peach",
     anser3: "danger",
     anser4: "death",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14519,7 +14519,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "success",
     anser3: "problem",
     anser4: "answer",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14531,7 +14531,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "begins",
     anser3: "began",
     anser4: "begun",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14543,7 +14543,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "broke",
     anser3: "broken",
     anser4: "breaking",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14555,7 +14555,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "choosed",
     anser3: "chosen",
     anser4: "chose",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14567,7 +14567,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "drunk",
     anser3: "drank",
     anser4: "drunken",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14579,7 +14579,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "looked",
     anser3: "lookd",
     anser4: "looken",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14591,7 +14591,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "paints",
     anser3: "paintd",
     anser4: "painted",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14603,7 +14603,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "uses",
     anser3: "useed",
     anser4: "usen",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14615,7 +14615,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fell",
     anser3: "falled",
     anser4: "falling",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14627,7 +14627,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "flown",
     anser3: "flied",
     anser4: "fiyed",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14639,7 +14639,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "goed",
     anser3: "went",
     anser4: "gone",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14651,7 +14651,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "gived",
     anser3: "given",
     anser4: "gave",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14663,7 +14663,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "knew",
     anser3: "known",
     anser4: "knowing",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14675,7 +14675,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rode",
     anser3: "riden",
     anser4: "ridden",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14687,7 +14687,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "growed",
     anser3: "grown",
     anser4: "growd",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14699,7 +14699,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "talken",
     anser3: "told",
     anser4: "tell",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14711,7 +14711,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "walken",
     anser3: "walked",
     anser4: "walkd",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14723,7 +14723,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "naming",
     anser3: "named",
     anser4: "namen",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14735,7 +14735,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rang",
     anser3: "ranged",
     anser4: "ringing",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14747,7 +14747,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "risen",
     anser3: "rose",
     anser4: "rosed",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14759,7 +14759,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "seed",
     anser3: "seen",
     anser4: "saw",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14771,7 +14771,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speaked",
     anser3: "spoken",
     anser4: "spoke",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14783,7 +14783,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "swam",
     anser3: "swum",
     anser4: "swumed",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14795,7 +14795,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "tooked",
     anser3: "taken",
     anser4: "takened",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14807,7 +14807,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wrote",
     anser3: "wroted",
     anser4: "written",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14819,7 +14819,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wearen",
     anser3: "wore",
     anser4: "worn",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14831,7 +14831,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wanten",
     anser3: "wantd",
     anser4: "wantened",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14843,7 +14843,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cooking",
     anser3: "cookd",
     anser4: "cooked",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14855,7 +14855,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "brang",
     anser3: "brought",
     anser4: "broughted",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14867,7 +14867,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "brought",
     anser3: "buyed",
     anser4: "buied",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14879,7 +14879,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "caught",
     anser3: "caughted",
     anser4: "caughten",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14891,7 +14891,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "feeld",
     anser3: "felt",
     anser4: "felted",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -14903,7 +14903,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fought",
     anser3: "foughted",
     anser4: "fighten",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14915,7 +14915,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "faund",
     anser3: "fined",
     anser4: "finding",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14927,7 +14927,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "getted",
     anser3: "gotted",
     anser4: "got",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14939,7 +14939,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "visitd",
     anser3: "visitted",
     anser4: "visid",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14951,7 +14951,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "worked",
     anser3: "worken",
     anser4: "workened",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14963,7 +14963,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "reaching",
     anser3: "reachd",
     anser4: "reached",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -14975,7 +14975,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "likeed",
     anser3: "liking",
     anser4: "loked",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -14987,7 +14987,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stayed",
     anser3: "stayd",
     anser4: "staies",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -14999,7 +14999,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "traven",
     anser3: "traveled",
     anser4: "traveling",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15011,7 +15011,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "had",
     anser3: "havd",
     anser4: "haded",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15023,7 +15023,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "heard",
     anser3: "hears",
     anser4: "hearen",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15035,7 +15035,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "holen",
     anser3: "held",
     anser4: "helded",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15047,7 +15047,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "keepd",
     anser3: "kepten",
     anser4: "kept",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15059,7 +15059,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "waitdd",
     anser3: "waited",
     anser4: "waiten",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15071,7 +15071,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "askd",
     anser3: "asken",
     anser4: "askened",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15083,7 +15083,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "enjoying",
     anser3: "enjoied",
     anser4: "enjoyed",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15095,7 +15095,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "laied",
     anser3: "laid",
     anser4: "laided",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15107,7 +15107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "left",
     anser3: "leaf",
     anser4: "leaves",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15119,7 +15119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "lented",
     anser3: "lend",
     anser4: "lent",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15131,7 +15131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "losen",
     anser3: "lost",
     anser4: "losted",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15143,7 +15143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "makeed",
     anser3: "making",
     anser4: "made",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15155,7 +15155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "meand",
     anser3: "meant",
     anser4: "meanted",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15167,7 +15167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "meeted",
     anser3: "met",
     anser4: "meeting",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15179,7 +15179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stopped",
     anser3: "stopd",
     anser4: "stoppen",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15191,7 +15191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "livd",
     anser3: "liven",
     anser4: "livened",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15203,7 +15203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "laughed",
     anser3: "laughedd",
     anser4: "laughet",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15215,7 +15215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "saied",
     anser3: "said",
     anser4: "sait",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15227,7 +15227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sellet",
     anser3: "solded",
     anser4: "sold",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15239,7 +15239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sented",
     anser3: "send",
     anser4: "sent",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15251,7 +15251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "shine",
     anser3: "shin",
     anser4: "shone",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15263,7 +15263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "shot",
     anser3: "shooting",
     anser4: "shoted",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15275,7 +15275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sited",
     anser3: "sitted",
     anser4: "satted",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15287,7 +15287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "slept",
     anser3: "sleept",
     anser4: "sleeped",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15299,7 +15299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "spended",
     anser3: "spented",
     anser4: "spenten",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15311,7 +15311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hurriet",
     anser3: "hurried",
     anser4: "hurrieded",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15323,7 +15323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rained",
     anser3: "raindd",
     anser4: "rainet",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15335,7 +15335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "standd",
     anser3: "stend",
     anser4: "stood",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15347,7 +15347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "teached",
     anser3: "teachet",
     anser4: "taughted",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15359,7 +15359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "toldd",
     anser3: "told",
     anser4: "telled",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15371,7 +15371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "thoughted",
     anser3: "thinked",
     anser4: "thinkd",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15383,7 +15383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "understant",
     anser3: "understant",
     anser4: "understood",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15395,7 +15395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "won",
     anser3: "woned",
     anser4: "wind",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15407,7 +15407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "becomet",
     anser3: "became",
     anser4: "becamed",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15419,7 +15419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "pushed",
     anser3: "pushhed",
     anser4: "pushen",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15431,7 +15431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "pullet",
     anser3: "pulld",
     anser4: "pulleded",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15443,7 +15443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "snowed",
     anser3: "snowdd",
     anser4: "snowet",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15455,7 +15455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "runned",
     anser3: "run",
     anser4: "ran",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15467,7 +15467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "costd",
     anser3: "cost",
     anser4: "costen",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15479,7 +15479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "builded",
     anser3: "build",
     anser4: "builden",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15491,7 +15491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "looked",
     anser3: "lookd",
     anser4: "looken",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15503,7 +15503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "spoke",
     anser3: "spoken",
     anser4: "speaking",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15515,7 +15515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "getted",
     anser3: "gotted",
     anser4: "gotten",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15527,7 +15527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "began",
     anser3: "begin",
     anser4: "beginning",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15539,7 +15539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "heard",
     anser3: "heared",
     anser4: "hearen",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15551,7 +15551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "found",
     anser3: "founded",
     anser4: "finding",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15563,7 +15563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "took",
     anser3: "taking",
     anser4: "taken",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15575,7 +15575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rinning",
     anser3: "run",
     anser4: "ran",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15587,7 +15587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "flew",
     anser3: "flown",
     anser4: "flying",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15599,7 +15599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wrote",
     anser3: "writing",
     anser4: "written",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15611,7 +15611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "smaller",
     anser3: "smallest",
     anser4: "smallen",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15623,7 +15623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "coldest",
     anser3: "colder",
     anser4: "coldder",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15635,7 +15635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "largest",
     anser3: "largen",
     anser4: "large",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15647,7 +15647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "oldest",
     anser3: "old",
     anser4: "older",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15659,7 +15659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "younger",
     anser3: "youngest",
     anser4: "youngester",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15671,7 +15671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "longest",
     anser3: "longe",
     anser4: "long",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15683,7 +15683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "taller",
     anser3: "tallerst",
     anser4: "tallest",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15695,7 +15695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "prettyest",
     anser3: "prettiest",
     anser4: "prettier",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15707,7 +15707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "busier",
     anser3: "busyer",
     anser4: "busyest",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15719,7 +15719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "warmer",
     anser3: "more warm",
     anser4: "most warm",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15731,7 +15731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "earlier",
     anser3: "earlyer",
     anser4: "earlyest",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15743,7 +15743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "goodest",
     anser3: "better",
     anser4: "best",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15755,7 +15755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "shortest",
     anser3: "more short",
     anser4: "most short",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15767,7 +15767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "difficulter",
     anser3: "most difficult",
     anser4: "difficultest",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15779,7 +15779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "harder",
     anser3: "more hard",
     anser4: "most hard",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15791,7 +15791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "most cool",
     anser3: "cooler",
     anser4: "coolest",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15803,7 +15803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "more fast",
     anser3: "faster",
     anser4: "fastest",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15815,7 +15815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "most interesting",
     anser3: "interestinger",
     anser4: "interestinest",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15827,7 +15827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "weller",
     anser3: "best",
     anser4: "better",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15839,7 +15839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "more famous",
     anser3: "famouser",
     anser4: "famousest",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15851,7 +15851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "opened",
     anser3: "played",
     anser4: "showed",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15863,7 +15863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "enjoyed",
     anser3: "called",
     anser4: "visited",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15875,7 +15875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stopped",
     anser3: "learned",
     anser4: "studied",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15887,7 +15887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cleaned",
     anser3: "finished",
     anser4: "used",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15899,7 +15899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cried",
     anser3: "lived",
     anser4: "stayed",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15911,7 +15911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "played",
     anser3: "laughed",
     anser4: "cooked",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15923,7 +15923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stopped",
     anser3: "called",
     anser4: "asked",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15935,7 +15935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "visited",
     anser3: "wanted",
     anser4: "walked",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -15947,7 +15947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "watched",
     anser3: "listened",
     anser4: "talked",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15959,7 +15959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "invited",
     anser3: "used",
     anser4: "loved",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -15971,7 +15971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "良い時期になる",
     anser3: "楽しく過ごす",
     anser4: "いいタイミングで",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -15983,7 +15983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "寒さに強い",
     anser3: "寒くなる",
     anser4: "寒い時期になる",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -15995,7 +15995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～の隣りに",
     anser3: "隣りの～",
     anser4: "次世代の～",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16007,7 +16007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～を見下す",
     anser3: "～を見あげる",
     anser4: "～をさがす",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16019,7 +16019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～を待ち焦がれる",
     anser3: "～をほしい",
     anser4: "～が楽しい",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16031,7 +16031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～を訪ねる",
     anser3: "～に電話する",
     anser4: "～をほしがる",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16043,7 +16043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "一週間の間",
     anser3: "一ヶ月間",
     anser4: "2.3時間",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16055,7 +16055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "一人に言う",
     anser3: "独り言を言う",
     anser4: "怒鳴る",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16067,7 +16067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "離陸する",
     anser3: "～を着る",
     anser4: "～を脱ぐ",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16079,7 +16079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "すぐに",
     anser3: "どうしても",
     anser4: "楽しむ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16091,7 +16091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～のうちのいくつか",
     anser3: "たくさんの～",
     anser4: "～のうちの多く",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16103,7 +16103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～してはいけない",
     anser3: "だれも～ない",
     anser4: "～にある",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16115,7 +16115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "散歩に行く",
     anser3: "歩くことは楽しい",
     anser4: "歩いて楽しむ",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16127,7 +16127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～することができる",
     anser3: "まもなく",
     anser4: "～と同じくらい早く",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16139,7 +16139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～に到着する",
     anser3: "～に急ぐ",
     anser4: "～と結婚する",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16151,7 +16151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "楽しくなる",
     anser3: "だんだんと",
     anser4: "もっともっと",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16163,7 +16163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "一度だけのコーヒー",
     anser3: "コーヒーを一人で",
     anser4: "コーヒーをどうしても",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16175,7 +16175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "～のように",
     anser3: "～を見る",
     anser4: "～を見つめる",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16187,7 +16187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "離陸する",
     anser3: "泣く",
     anser4: "怒る",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16199,7 +16199,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "疲れる",
     anser3: "タイヤになる",
     anser4: "気分がいい",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16211,7 +16211,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "worry",
     anser3: "call",
     anser4: "sit",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16223,7 +16223,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "with",
     anser3: "on",
     anser4: "to",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16235,7 +16235,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "on",
     anser3: "and",
     anser4: "for",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16247,7 +16247,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Keep",
     anser3: "Talk",
     anser4: "Play",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16259,7 +16259,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "before",
     anser3: "after",
     anser4: "on",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16271,7 +16271,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "coming",
     anser3: "taking",
     anser4: "ruuning",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16283,7 +16283,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "plays",
     anser3: "played",
     anser4: "playd",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16295,7 +16295,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "visit",
     anser3: "worry",
     anser4: "remember",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16307,7 +16307,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "for",
     anser3: "on",
     anser4: "from",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16319,7 +16319,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hear",
     anser3: "give",
     anser4: "say",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16331,7 +16331,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "I have tickets.",
     anser3: "It's ten.",
     anser4: "Take No.10 bus.",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16343,7 +16343,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "That's too bad.",
     anser3: "That's a good idea.",
     anser4: "It's yours.",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16355,7 +16355,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "What are you going to wear?",
     anser3: "What are you?",
     anser4: "When do you go?",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16367,7 +16367,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "My friend.",
     anser3: "Yes.",
     anser4: "It's fine.",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16379,7 +16379,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "I like it.",
     anser3: "I want some tea.",
     anser4: "I drink.",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16391,7 +16391,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "I like music.",
     anser3: "I want books.",
     anser4: "At seven.",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16403,7 +16403,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "About two hours.",
     anser3: "At noon.",
     anser4: "At night.",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16415,7 +16415,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "I want to go movie.",
     anser3: "you have to study.",
     anser4: "you have a test.",
-    cnrrect: "I listen to music."
+    correct: "I listen to music."
   },
   {
     subject: "english_jh2",
@@ -16427,7 +16427,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "Yes.",
     anser3: "Of coursr.",
     anser4: "I'm fine.",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16439,7 +16439,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "I don't know.",
     anser3: "He is out now.",
     anser4: "It's Sunday.",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh2",
@@ -16451,7 +16451,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "tall",
     anser3: "high",
     anser4: "popular",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16463,7 +16463,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "vacation",
     anser3: "lake",
     anser4: "interesting",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16475,7 +16475,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "visit",
     anser3: "go",
     anser4: "send",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16487,7 +16487,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "learns",
     anser3: "learning",
     anser4: "learned",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh2",
@@ -16499,7 +16499,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "together",
     anser3: "aroung",
     anser4: "through",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16511,7 +16511,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "went",
     anser3: "caught",
     anser4: "made",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16523,7 +16523,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stopped",
     anser3: "bought",
     anser4: "found",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16535,7 +16535,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "talks",
     anser3: "talking",
     anser4: "talked",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh2",
@@ -16547,7 +16547,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "favorite",
     anser3: "happy",
     anser4: "heavy",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh2",
@@ -16559,7 +16559,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "street",
     anser3: "work",
     anser4: "job",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16571,7 +16571,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "internet",
     anser3: "computer",
     anser4: "stamp",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16583,7 +16583,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "camp",
     anser3: "present",
     anser4: "vacation",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16595,7 +16595,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sign",
     anser3: "business",
     anser4: "meeting",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16607,7 +16607,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "nature",
     anser3: "iron",
     anser4: "ocean",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16619,7 +16619,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fire",
     anser3: "gas",
     anser4: "ground",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16631,7 +16631,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sun",
     anser3: "sky",
     anser4: "pond",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16643,7 +16643,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "farm",
     anser3: "beach",
     anser4: "sand",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16655,7 +16655,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "trip",
     anser3: "bridge",
     anser4: "accident",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16667,7 +16667,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hospital",
     anser3: "office",
     anser4: "church",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16679,7 +16679,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "airport",
     anser3: "castle",
     anser4: "temple",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16691,7 +16691,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "museum",
     anser3: "gym",
     anser4: "shrine",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16703,7 +16703,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "century",
     anser3: "tower",
     anser4: "part",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16715,7 +16715,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "past",
     anser3: "present",
     anser4: "future",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16727,7 +16727,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "outside",
     anser3: "center",
     anser4: "bottom",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16739,7 +16739,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "city",
     anser3: "village",
     anser4: "country",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16751,7 +16751,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hometown",
     anser3: "nation",
     anser4: "capital",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16763,7 +16763,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "way",
     anser3: "law",
     anser4: "mind",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16775,7 +16775,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "death",
     anser3: "mistake",
     anser4: "mark",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16787,7 +16787,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "peace",
     anser3: "fact",
     anser4: "price",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16799,7 +16799,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speed",
     anser3: "chace",
     anser4: "promise",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16811,7 +16811,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "smell",
     anser3: "luck",
     anser4: "sight",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16823,7 +16823,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "interest",
     anser3: "problem",
     anser4: "trouble",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16835,7 +16835,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "reason",
     anser3: "line",
     anser4: "joy",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16847,7 +16847,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "order",
     anser3: "war",
     anser4: "plan",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16859,7 +16859,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "treasure",
     anser3: "soap",
     anser4: "hope",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16871,7 +16871,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "team",
     anser3: "match",
     anser4: "tent",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16883,7 +16883,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "yard",
     anser3: "cage",
     anser4: "bottom",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16895,7 +16895,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "leader",
     anser3: "head",
     anser4: "arm",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16907,7 +16907,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hello",
     anser3: "volunteer",
     anser4: "guest",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16919,7 +16919,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "tie",
     anser3: "cloth",
     anser4: "clothes",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -16931,7 +16931,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "good",
     anser3: "wonderful",
     anser4: "bad",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -16943,7 +16943,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "good",
     anser4: "hot",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16955,7 +16955,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "easy",
     anser3: "difficult",
     anser4: "kind",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -16967,7 +16967,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hot",
     anser3: "rainy",
     anser4: "cloudy",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16979,7 +16979,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "good",
     anser3: "kind",
     anser4: "sick",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -16991,7 +16991,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "busy",
     anser3: "soon",
     anser4: "quickly",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17003,7 +17003,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sorry",
     anser3: "happy",
     anser4: "dear",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17015,7 +17015,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "strong",
     anser3: "weak",
     anser4: "week",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17027,7 +17027,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "quick",
     anser3: "quite",
     anser4: "quiet",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17039,7 +17039,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "full",
     anser3: "sleepy",
     anser4: "hungry",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17051,7 +17051,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "good",
     anser4: "great",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17063,7 +17063,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "careful",
     anser3: "full",
     anser4: "well",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17075,7 +17075,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "slow",
     anser3: "foolish",
     anser4: "late",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17087,7 +17087,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "early",
     anser4: "fond",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17099,7 +17099,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "kind",
     anser4: "good",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17111,7 +17111,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "favorite",
     anser3: "fine",
     anser4: "ill",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17123,7 +17123,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "slow",
     anser3: "famous",
     anser4: "soft",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17135,7 +17135,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "well",
     anser3: "dear",
     anser4: "rich",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17147,7 +17147,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "imfomation",
     anser3: "beautiful",
     anser4: "popular",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17159,7 +17159,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wrong",
     anser3: "long",
     anser4: "short",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17171,7 +17171,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sure",
     anser3: "truth",
     anser4: "TRUE",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17183,7 +17183,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "left",
     anser3: "light",
     anser4: "just",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17195,7 +17195,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fresh",
     anser3: "beautiful",
     anser4: "cheap",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17207,7 +17207,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "poor",
     anser3: "dirty",
     anser4: "clear",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17219,7 +17219,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wet",
     anser3: "water",
     anser4: "abroad",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17231,7 +17231,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "alone",
     anser3: "along",
     anser4: "long",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17243,7 +17243,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "snow",
     anser3: "sad",
     anser4: "lonely",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17255,7 +17255,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sick",
     anser3: "silent",
     anser4: "such",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17267,7 +17267,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "some",
     anser3: "any",
     anser4: "many",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17279,7 +17279,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "warm",
     anser3: "thick",
     anser4: "narrow",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17291,7 +17291,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "dark",
     anser3: "bright",
     anser4: "right",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17303,7 +17303,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "beautiful",
     anser3: "important",
     anser4: "popular",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17315,7 +17315,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "expensive",
     anser3: "example",
     anser4: "crowded",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17327,7 +17327,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "happy",
     anser3: "merry",
     anser4: "real",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17339,7 +17339,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "clean",
     anser3: "safe",
     anser4: "sweet",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17351,7 +17351,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "loud",
     anser3: "large",
     anser4: "wide",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17363,7 +17363,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "possible",
     anser3: "small",
     anser4: "secret",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17375,7 +17375,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "necessary",
     anser3: "alive",
     anser4: "same",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17387,7 +17387,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "impossible",
     anser3: "inpossible",
     anser4: "unpossible",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17399,7 +17399,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "alone",
     anser3: "straight",
     anser4: "special",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17411,7 +17411,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "safe",
     anser3: "special",
     anser4: "wild",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17423,7 +17423,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "brave",
     anser3: "alive",
     anser4: "real",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17435,7 +17435,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "dry",
     anser3: "qietly",
     anser4: "beautifully",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17447,7 +17447,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "lovely",
     anser3: "thin",
     anser4: "thick",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17459,7 +17459,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "there",
     anser3: "here",
     anser4: "then",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17471,7 +17471,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "now",
     anser3: "just",
     anser4: "already",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17483,7 +17483,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "along",
     anser3: "only",
     anser4: "long",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17495,7 +17495,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "such",
     anser3: "clear",
     anser4: "now",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17507,7 +17507,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "really",
     anser3: "each",
     anser4: "such",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17519,7 +17519,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "both",
     anser3: "each",
     anser4: "such",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17531,7 +17531,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "already",
     anser3: "all",
     anser4: "always",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17543,7 +17543,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "another",
     anser3: "along",
     anser4: "alone",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17555,7 +17555,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "enough",
     anser3: "each",
     anser4: "own",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17567,7 +17567,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "both",
     anser3: "own",
     anser4: "enough",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17579,7 +17579,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "always",
     anser3: "again",
     anser4: "sometimes",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17591,7 +17591,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "usually",
     anser3: "always",
     anser4: "sometimes",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17603,7 +17603,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "usual",
     anser3: "again",
     anser4: "yet",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17615,7 +17615,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "ago",
     anser3: "ever",
     anser4: "never",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17627,7 +17627,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "every",
     anser3: "maybe",
     anser4: "such",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17639,7 +17639,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "usually",
     anser3: "beautifully",
     anser4: "certainly",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17651,7 +17651,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "act",
     anser3: "do",
     anser4: "be",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17663,7 +17663,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "arrow",
     anser3: "allow",
     anser4: "shallow",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17675,7 +17675,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "come",
     anser3: "disappear",
     anser4: "appear",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17687,7 +17687,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "attend",
     anser3: "absent",
     anser4: "go",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17699,7 +17699,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "shoot",
     anser3: "beat",
     anser4: "throw",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17711,7 +17711,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hot",
     anser3: "warm",
     anser4: "water",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17723,7 +17723,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speak",
     anser3: "say",
     anser4: "hello",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17735,7 +17735,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "bad",
     anser3: "complain",
     anser4: "comfortable",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17747,7 +17747,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "act",
     anser3: "enjoy",
     anser4: "depend",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17759,7 +17759,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "fear",
     anser3: "hate",
     anser4: "doubt",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17771,7 +17771,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "feet",
     anser3: "find",
     anser4: "feel",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17783,7 +17783,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "think",
     anser3: "guess",
     anser4: "find",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17795,7 +17795,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "make",
     anser3: "think",
     anser4: "imagine",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17807,7 +17807,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "melt",
     anser3: "made",
     anser4: "injure",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17819,7 +17819,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "dive",
     anser3: "object",
     anser4: "against",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17831,7 +17831,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "subject",
     anser3: "office",
     anser4: "offer",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17843,7 +17843,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "pleasant",
     anser3: "push",
     anser4: "pray",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17855,7 +17855,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "remain",
     anser3: "repair",
     anser4: "repeat",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17867,7 +17867,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sell",
     anser3: "find",
     anser4: "understand",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17879,7 +17879,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "vote",
     anser3: "waste",
     anser4: "whisper",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "advise",
@@ -17891,7 +17891,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "2",
     anser3: "",
     anser4: "",
-    cnrrect: ""
+    correct: ""
   },
   {
     subject: "english_jh3",
@@ -17903,7 +17903,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "town",
     anser3: "area",
     anser4: "city",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17915,7 +17915,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "absent",
     anser3: "ache",
     anser4: "attention",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17927,7 +17927,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "blood",
     anser3: "board",
     anser4: "balance",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17939,7 +17939,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "brush",
     anser3: "whistle",
     anser4: "battle",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17951,7 +17951,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "job",
     anser3: "career",
     anser4: "work",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -17963,7 +17963,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sentence",
     anser3: "word",
     anser4: "character",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -17975,7 +17975,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "create",
     anser3: "coal",
     anser4: "coast",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -17987,7 +17987,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "continent",
     anser3: "courage",
     anser4: "culture",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -17999,7 +17999,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "culture",
     anser3: "custom",
     anser4: "democracy",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18011,7 +18011,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "dentist",
     anser3: "deck",
     anser4: "design",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18023,7 +18023,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "derty",
     anser3: "north",
     anser4: "distance",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18035,7 +18035,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "run",
     anser3: "effort",
     anser4: "elevator",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18047,7 +18047,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "error",
     anser3: "event",
     anser4: "engine",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18059,7 +18059,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "experience",
     anser3: "example",
     anser4: "experiment",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18071,7 +18071,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "festival",
     anser3: "event",
     anser4: "film",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18083,7 +18083,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "flight",
     anser3: "fly",
     anser4: "flew",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18095,7 +18095,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "do",
     anser3: "play",
     anser4: "graduation",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18107,7 +18107,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "building",
     anser3: "goverment",
     anser4: "social studies",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18119,7 +18119,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "headache",
     anser3: "weekend",
     anser4: "habit",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18131,7 +18131,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "impression",
     anser3: "interesting",
     anser4: "international",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18143,7 +18143,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "invention",
     anser3: "influence",
     anser4: "industry",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18155,7 +18155,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "jungle",
     anser3: "court",
     anser4: "police",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18167,7 +18167,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "rowyer",
     anser3: "lowyer",
     anser4: "lawyer",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18179,7 +18179,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "manner",
     anser3: "meaning",
     anser4: "magician",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18191,7 +18191,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "doctor",
     anser3: "medicine",
     anser4: "memory",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18203,7 +18203,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "country",
     anser3: "brotherhood",
     anser4: "neighborhood",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18215,7 +18215,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "owner",
     anser3: "have",
     anser4: "parent",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18227,7 +18227,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "passenger",
     anser3: "monster",
     anser4: "owner",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18239,7 +18239,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "people",
     anser3: "human",
     anser4: "population",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18251,7 +18251,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "doing",
     anser3: "progress",
     anser4: "power",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18263,7 +18263,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "relation",
     anser3: "pleasant",
     anser4: "prison",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18275,7 +18275,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "proof",
     anser3: "rule",
     anser4: "politics",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18287,7 +18287,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "city",
     anser3: "secret",
     anser4: "year",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18299,7 +18299,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "language",
     anser3: "show",
     anser4: "sentence",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18311,7 +18311,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "sea",
     anser3: "shore",
     anser4: "wave",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18323,7 +18323,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "spider",
     anser3: "space",
     anser4: "home",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18335,7 +18335,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stream",
     anser3: "lake",
     anser4: "pond",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18347,7 +18347,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "taxi",
     anser3: "car",
     anser4: "bicycle",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18359,7 +18359,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "visitor",
     anser3: "visiter",
     anser4: "stay",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18371,7 +18371,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "though",
     anser3: "thought",
     anser4: "throw",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18383,7 +18383,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "slept",
     anser3: "asleep",
     anser4: "sleeping",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18395,7 +18395,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "white",
     anser3: "blind",
     anser4: "dark",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18407,7 +18407,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "calm",
     anser3: "silent",
     anser4: "warm",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18419,7 +18419,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cool",
     anser3: "platform",
     anser4: "comfortable",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18431,7 +18431,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "distance",
     anser3: "close",
     anser4: "cloth",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18443,7 +18443,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wide",
     anser3: "real",
     anser4: "especially",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18455,7 +18455,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "air",
     anser3: "flat",
     anser4: "good",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18467,7 +18467,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "old",
     anser3: "modern",
     anser4: "present",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18479,7 +18479,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "pumpkin",
     anser3: "simple",
     anser4: "stupid",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18491,7 +18491,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "arrive on",
     anser3: "arrive for",
     anser4: "arrive with",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18503,7 +18503,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "believe in",
     anser3: "believe at",
     anser4: "believe for",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18515,7 +18515,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "come back",
     anser3: "come across",
     anser4: "come into",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18527,7 +18527,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "find out",
     anser3: "find down",
     anser4: "find at",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18539,7 +18539,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "get in",
     anser3: "get off",
     anser4: "get on",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18551,7 +18551,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "get good",
     anser3: "get back",
     anser4: "get to",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18563,7 +18563,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "get for",
     anser3: "get up",
     anser4: "get angry",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18575,7 +18575,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "give up with",
     anser3: "give into",
     anser4: "give for",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18587,7 +18587,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "go into",
     anser3: "go out",
     anser4: "go home",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18599,7 +18599,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "write to",
     anser3: "hear for",
     anser4: "write on",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18611,7 +18611,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "hurry up",
     anser3: "hurry for",
     anser4: "hurry with",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18623,7 +18623,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "laugh in",
     anser3: "laugh at",
     anser4: "laugh for",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18635,7 +18635,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "leave for",
     anser3: "leave in",
     anser4: "leave at",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18647,7 +18647,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "look out",
     anser3: "look down",
     anser4: "look up",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18659,7 +18659,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "look in",
     anser3: "look like",
     anser4: "look into",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18671,7 +18671,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "look before",
     anser3: "look for",
     anser4: "look up",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18683,7 +18683,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "look forward",
     anser3: "look forward to",
     anser4: "look back into",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18695,7 +18695,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "put on",
     anser3: "put with",
     anser4: "put for",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18707,7 +18707,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "take into",
     anser3: "take out",
     anser4: "take back",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18719,7 +18719,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "run to",
     anser3: "run for",
     anser4: "run over",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18731,7 +18731,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "see off",
     anser3: "see for",
     anser4: "see with",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18743,7 +18743,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "speak in",
     anser3: "speak at",
     anser4: "speak for",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18755,7 +18755,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "take care on",
     anser3: "take care of",
     anser4: "take care at",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18767,7 +18767,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "think out",
     anser3: "think down",
     anser4: "think up",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18779,7 +18779,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "turn in",
     anser3: "turn on",
     anser4: "turn into",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18791,7 +18791,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "wake for",
     anser3: "wake in",
     anser4: "wake up",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18803,7 +18803,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "warry with",
     anser3: "warry to",
     anser4: "warry about",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18815,7 +18815,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "write on",
     anser3: "write with",
     anser4: "write for",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18827,7 +18827,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "carry into",
     anser3: "carry on",
     anser4: "carry for",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18839,7 +18839,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "feel like ～ing",
     anser3: "feel on ～ing",
     anser4: "feel over ～ing",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18851,7 +18851,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "put off",
     anser3: "put for",
     anser4: "put with",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18863,7 +18863,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "stand in",
     anser3: "stand at",
     anser4: "stand for",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18875,7 +18875,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "turn on",
     anser3: "turn over",
     anser4: "turn at",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18887,7 +18887,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "think asleep",
     anser3: "run asleep",
     anser4: "walk asleep",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18899,7 +18899,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "feel sorry in",
     anser3: "feel sorry on",
     anser4: "feel sorry into",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -18911,7 +18911,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "get for",
     anser3: "get in",
     anser4: "get away",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18923,7 +18923,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "get tired",
     anser3: "hear tired",
     anser4: "come tired",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18935,7 +18935,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "run married",
     anser3: "get married",
     anser4: "come married",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18947,7 +18947,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "come into",
     anser3: "come on",
     anser4: "come with",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -18959,7 +18959,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "cut in",
     anser3: "cut down",
     anser4: "cut over",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18971,7 +18971,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be absent on",
     anser3: "be absent from",
     anser4: "be absent with",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -18983,7 +18983,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be afraid in",
     anser3: "be afraid at",
     anser4: "be afraid of",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -18995,7 +18995,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be covered on",
     anser3: "be covered over",
     anser4: "be covered at",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -19007,7 +19007,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be different from",
     anser3: "be different for",
     anser4: "be different with",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -19019,7 +19019,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be famous in",
     anser3: "be famous on",
     anser4: "be famous into",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -19031,7 +19031,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be filled for",
     anser3: "be filled with",
     anser4: "be filled away",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -19043,7 +19043,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be fond of",
     anser3: "be fond to",
     anser4: "be fond into",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -19055,7 +19055,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be glad on",
     anser3: "be glad with",
     anser4: "be glad to",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -19067,7 +19067,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be good in",
     anser3: "be good on",
     anser4: "be good at",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -19079,7 +19079,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be ill on bed",
     anser3: "be ill for bed",
     anser4: "be ill with bed",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -19091,7 +19091,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be in time on",
     anser3: "be in time from",
     anser4: "be in time for",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -19103,7 +19103,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be interested in",
     anser3: "be interested at",
     anser4: "be interested of",
-    cnrrect: "2"
+    correct: "2"
   },
   {
     subject: "english_jh3",
@@ -19115,7 +19115,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be known on",
     anser3: "be known to",
     anser4: "be known at",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -19127,7 +19127,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be late from",
     anser3: "be late for",
     anser4: "be late with",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -19139,7 +19139,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be made in",
     anser3: "be made of",
     anser4: "be made from",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -19151,7 +19151,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be made for",
     anser3: "be made of",
     anser4: "be made from",
-    cnrrect: "3"
+    correct: "3"
   },
   {
     subject: "english_jh3",
@@ -19163,7 +19163,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be pleased of",
     anser3: "be pleased to",
     anser4: "be pleased into",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -19175,7 +19175,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be proud on",
     anser3: "be proud with",
     anser4: "be proud to",
-    cnrrect: "1"
+    correct: "1"
   },
   {
     subject: "english_jh3",
@@ -19187,7 +19187,7 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be surprised in",
     anser3: "be surprised off",
     anser4: "be surprised at",
-    cnrrect: "4"
+    correct: "4"
   },
   {
     subject: "english_jh3",
@@ -19199,6 +19199,6 @@ export const quisInfoList:QuizInfoType[] = [
     anser2: "be satisfied of",
     anser3: "be satisfied with",
     anser4: "be satisfied for",
-    cnrrect: "3"
+    correct: "3"
   }
 ];

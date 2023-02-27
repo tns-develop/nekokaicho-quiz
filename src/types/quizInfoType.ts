@@ -8,5 +8,5 @@ export default interface QuizInfoType {
   anser2: string;
   anser3: string;
   anser4: string;
-  cnrrect: string;
+  correct: string;
 }
