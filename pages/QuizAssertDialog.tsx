@@ -24,10 +24,10 @@ const QuizAssertDialog = () => {
         <DialogContent>
           <DialogContentText>
             <Typography variant="h5" component="div" gutterBottom>
-              正解数：{correctCount}
+              {/* 正解数：{correctCount} */}
             </Typography>
             <Typography variant="h5" component="div" gutterBottom>
-              不正解数：{incorrectCount}
+              {/* 不正解数：{incorrectCount} */}
             </Typography>
           </DialogContentText>
         </DialogContent>
