@@ -1,8 +1,12 @@
 import * as React from "react";
-import { Container, Typography, Box, Link, Button, RadioGroup, Radio, FormControlLabel } from "@mui/material";
+import Image from "next/image";
+import { Container, Typography, Box, Button } from "@mui/material";
 import getQuizInfo from "../src/components/quizInfo";
-import { QuickInfo } from "typescript";
-import QuizInfoType from "../src/types/quizInfoType";
+import * as CONS from "../src/common/constants"
+import QuizInfoType from "@/types/quizInfoType";
+
+import anserNGImage from "../resources/image/anserNG.png";
+import anserOKImage from "../resources/image/anserOK.png";
 
 
 // 文字を一文字ずつ表示する関数をasyncで実装
@@ -18,40 +22,40 @@ const typeText = async (text: string, setText: (text: string) => void) => {
 
 // クイズ開始画面
 const QuizStart = () => {
+	const [quizInfo, setQuizInfo] = React.useState<QuizInfoType>();
 	const [show, setShow] = React.useState(false);
-	const [subject, setSubject] = React.useState("geography");
-	const [counter, setCounter] = React.useState(1);
-	const [questionIndex, setQuestionIndex] = React.useState(0);
+	const [subject, setSubject] = React.useState(CONS.SUBJECT_INIT);
+	const [counter, setCounter] = React.useState(CONS.COUNTER_INIT);
+	const [questionIndex, setQuestionIndex] = React.useState(CONS.QUESTION_INDEX_INIT);
 	const [question, setQuestion] = React.useState("");
 	const [anser1, setAnser1] = React.useState("");
 	const [anser2, setAnser2] = React.useState("");
 	const [anser3, setAnser3] = React.useState("");
 	const [anser4, setAnser4] = React.useState("");
+	const [showCorrectOK, setShowCorrectOK] = React.useState(false);
+	const [showCorrectNG, setShowCorrectNG] = React.useState(false);
 
-
-  const checkAnser = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const checkAnser = (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
     const quizAnser = (event.target as HTMLInputElement).value;
-    const quizInfo = getQuizInfo(subject, counter, questionIndex);
-    console.log(subject, counter, questionIndex);
-    if (quizAnser === quizInfo.correct) {
-      alert("正解！");
+    if (quizInfo && quizAnser === quizInfo.correct) {
+      setShowCorrectOK(true);
+      setShowCorrectNG(false);
     } else {
-      alert("不正解！");
+      setShowCorrectOK(false);
+      setShowCorrectNG(true);
     }
   };
 
   // 画面表示後にクイズ情報を取得
   React.useEffect(() => {
- 
-    
     const asyncFunc = async () => {
-      setSubject(localStorage.getItem("subject") || "geography");
-      setCounter(Number(localStorage.getItem("counter") || 1));
-      setQuestionIndex(Number(localStorage.getItem("questionIndex") || 0));
+      setSubject(localStorage.getItem("subject") || CONS.SUBJECT_INIT);
+      setCounter(Number(localStorage.getItem("counter") || CONS.COUNTER_INIT));
+      setQuestionIndex(Number(localStorage.getItem("questionIndex") || CONS.QUESTION_INDEX_INIT));
       
-      // 取得した値をcheckAnserで使用
       const quizInfo = getQuizInfo(subject, counter, questionIndex);
-      await typeText(quizInfo.question, setQuestion);
+      setQuizInfo(quizInfo);
+			await typeText(quizInfo.question, setQuestion);
 
 			// 回答表示まで若干スリープ
 			const anserDispWaitTime = 500;
@@ -78,32 +82,17 @@ const QuizStart = () => {
 					height: "100vh",
 				}}
 			>
+				{showCorrectOK ? (<Image alt="anserOKImage" src={anserOKImage} width={200} height={200}/>) : null}
+				{showCorrectNG ? (<Image alt="anserNGImage" src={anserNGImage} width={200} height={200}/>) : null}
 				<Typography variant="h4" component="h1" gutterBottom>
 					{question}
 					<br />
 					<Box sx={{ display: show ? "block" : "none" }}>
-            <RadioGroup name="quizAnser" onChange={(event)=> checkAnser(event)} >
-							<FormControlLabel
-								control={<Radio />}
-								label={anser1}
-								value="1"
-							/>
-							<FormControlLabel
-								control={<Radio />}
-								label={anser2}
-								value="2"
-							/>
-							<FormControlLabel
-								control={<Radio />}
-								label={anser3}
-								value="3"
-							/>
-							<FormControlLabel
-								control={<Radio />}
-								label={anser4}
-								value="4"
-							/>
-						</RadioGroup>
+						{/* anser1～anser4をMUIのButtonで表示する。ButtonをクリックしたらcheckAnserを呼び出す。*/}
+						<Button variant="contained" onClick={checkAnser} value="1">{anser1}</Button>
+						<Button variant="contained" onClick={checkAnser} value="2">{anser2}</Button>
+						<Button variant="contained" onClick={checkAnser} value="3">{anser3}</Button>
+						<Button variant="contained" onClick={checkAnser} value="4">{anser4}</Button>
 					</Box>
 				</Typography>
 			</Box>
