@@ -35,16 +35,51 @@ const QuizStart = () => {
 	const [showCorrectOK, setShowCorrectOK] = React.useState(false);
 	const [showCorrectNG, setShowCorrectNG] = React.useState(false);
 
-  const checkAnser = (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
+  const checkAnser = async (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
     const quizAnser = (event.target as HTMLInputElement).value;
     if (quizInfo && quizAnser === quizInfo.correct) {
-      setShowCorrectOK(true);
+			setShowCorrectOK(true);
       setShowCorrectNG(false);
     } else {
       setShowCorrectOK(false);
       setShowCorrectNG(true);
     }
+
+		// questionIndexをカウントアップしてQuizStartをもう一度最初から実行
+		const anserDispWaitTime = 500;
+		await new Promise((resolve) => setTimeout(resolve, anserDispWaitTime));
+		setShowCorrectOK(false);
+		setShowCorrectNG(false);
+		setQuestionIndex(questionIndex+1);
+		resetQuizInfo();
+		nextQuizInfo(subject, counter, questionIndex);
   };
+
+	// 表示しているクイズ情報をリセットする関数
+	const resetQuizInfo = () => {
+		setQuestion("");
+		setAnser1("");
+		setAnser2("");
+		setAnser3("");
+		setAnser4("");
+		setShow(false);
+	};
+	
+	// クイズ情報を取得して表示する関数
+	const nextQuizInfo = async (subject: string, counter: number, questionIndex: number) => {
+		const quizInfo = getQuizInfo(subject, counter, questionIndex);
+		setQuizInfo(quizInfo);
+		await typeText(quizInfo.question, setQuestion);
+
+		// 回答表示まで若干スリープ
+		const anserDispWaitTime = 500;
+		await new Promise((resolve) => setTimeout(resolve, anserDispWaitTime));
+		setAnser1(`1. ${quizInfo.anser1}`);
+		setAnser2(`2. ${quizInfo.anser2}`);
+		setAnser3(`3. ${quizInfo.anser3}`);
+		setAnser4(`4. ${quizInfo.anser4}`);
+		setShow(true);
+	};
 
   // 画面表示後にクイズ情報を取得
   React.useEffect(() => {
@@ -53,18 +88,7 @@ const QuizStart = () => {
       setCounter(Number(localStorage.getItem("counter") || CONS.COUNTER_INIT));
       setQuestionIndex(Number(localStorage.getItem("questionIndex") || CONS.QUESTION_INDEX_INIT));
       
-      const quizInfo = getQuizInfo(subject, counter, questionIndex);
-      setQuizInfo(quizInfo);
-			await typeText(quizInfo.question, setQuestion);
-
-			// 回答表示まで若干スリープ
-			const anserDispWaitTime = 500;
-			await new Promise((resolve) => setTimeout(resolve, anserDispWaitTime));
-			setAnser1(`1. ${quizInfo.anser1}`);
-			setAnser2(`2. ${quizInfo.anser2}`);
-			setAnser3(`3. ${quizInfo.anser3}`);
-			setAnser4(`4. ${quizInfo.anser4}`);
-			setShow(true);
+			await nextQuizInfo(subject, counter, questionIndex);
 		};
 		asyncFunc();
 	}, []);
